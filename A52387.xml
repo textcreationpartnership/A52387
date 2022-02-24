@@ -1,0 +1,778 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The cross crowned: or, Short affliction making way for eternal glory Opened in a sermon preached at the funeral of Daniel Waldoe Esq; in the Parish-Church of Alhallows Honey-lane, May 9. 1661. By James Nalton, minister of the gospel, and pastor of Leonards Foster-lane London.</title>
+            <author>Nalton, James, 1600-1662.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 110 KB of XML-encoded text transcribed from 49 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52387</idno>
+            <idno type="STC">Wing N121A</idno>
+            <idno type="STC">ESTC R219314</idno>
+            <idno type="EEBO-CITATION">99830797</idno>
+            <idno type="PROQUEST">99830797</idno>
+            <idno type="VID">35251</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52387)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35251)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2093:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The cross crowned: or, Short affliction making way for eternal glory Opened in a sermon preached at the funeral of Daniel Waldoe Esq; in the Parish-Church of Alhallows Honey-lane, May 9. 1661. By James Nalton, minister of the gospel, and pastor of Leonards Foster-lane London.</title>
+                  <author>Nalton, James, 1600-1662.</author>
+               </titleStmt>
+               <extent>[8], 88 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D.M. for Sa. Gellibrand at the Golden Ball in St. Pauls Churchyard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title and caption title on p. 1 reads: Short affliction making way for eternal glory.</note>
+                  <note>Copy tightly bound with slight loss of print.</note>
+                  <note>Reproduction of the original in Dr. Williams's Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35251:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Croſs Crowned:</hi> OR, SHORT AFFLICTION Making way for ETERNAL GLORY.</p>
+            <p>Opened in a SERMON Preached at the Funeral of <hi>DANIEL WALDOE</hi> 
+               <abbr>Eſq</abbr> in the Pariſh-Church of <hi>Alhallows Honey-lane, May</hi> 9. 1661.</p>
+            <p>By JAMES NALTON, Miniſter of the Goſpel, and Paſtor of <hi>Leonards Foſter-lane London.</hi>
+            </p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>D.M.</hi> for SA. GELLI<g ref="char:EOLhyphen"/>BRAND at the Golden Ball in St, <hi>Pauls</hi> Churchyard. 1661.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:35251:2"/>
+            <pb facs="tcp:35251:2"/>
+            <head>To my Honoured Chriſtian Friend, M<hi rend="sup">r</hi>is <hi>Anne Waldoe,</hi> Relict of M<hi rend="sup">r</hi> 
+               <hi>Daniel Waldoe</hi> lately deceaſed.</head>
+            <p>IT was the deſine of your dear Husband (while yet living) that I ſhould per<g ref="char:EOLhyphen"/>form the laſt Office of Love, to a Deceaſed Friend, in preaching his <hi>Funeral Sermon.</hi> The honour that I bore to him, not the ambitious humor of appearing in Print, ha's made me willing (againſt my own inclination) to expoſe theſe poor worthleſs Meditations to pub<g ref="char:EOLhyphen"/>lick view. This I have done the rather, that thereby I might be an Inſtrument to perpetuate the memorial of ſo worthy and mitable a Chriſtian, and to commend his practiſe to poſterity. And for ſo doing, I look't on that paſſage of <hi>Solomon,</hi> as a ſufficient warrant, <hi>Prov. 10.7. The memory of the juſt is bleſſed;</hi> yea, <hi>the
+<pb facs="tcp:35251:3"/>righteous (ſaith</hi> David) <hi>ſhall be had in e<g ref="char:EOLhyphen"/>verlaſting remembrance,</hi> Pſal, <hi>112.6.</hi> Wicked men though they be like <hi>Nim<g ref="char:EOLhyphen"/>rod, mighty hunters before the Lord,</hi> (Gen. <hi>10.9.</hi>)<hi>he</hi> great Oppreſſors, and dare do this before the Lord as if they would <hi>provoke him to his face;</hi> and though they have been <hi>the terror of the mighty in the land of the living,</hi> as the Prophet ſpeaks, <hi>Ezek. 32.27.</hi> Yea, though they uſe all means poſsible to perpetuate their memo<g ref="char:EOLhyphen"/>rial, <hi>calling the lands after their own names,</hi> Pſal. <hi>49.11.</hi> as <hi>Abſolom reared up a pillar, and called it</hi> Abſoloms <hi>place, 2, Sam, 18.18.</hi> and Cain <hi>built a Citie, and called it after the name of his Son</hi> Enoch, <hi>Gen. 4.17.</hi> and ſome men at this day can build Hoſpitalls with the money which they have got by force and fraud, and <hi>cruſhing the needy:</hi> Yet all this will not make their memory laſt; <hi>the name of the wicked ſhall rot,</hi> and their <hi>Re<g ref="char:EOLhyphen"/>membrances ſhall be like aſhes,</hi> Job <hi>13. 12.</hi> that is, Thoſe things by which they would be remembred and mentioned a<g ref="char:EOLhyphen"/>mong the Sons of men, (as Wealth, and Honour, and Power, and Greatneſs) ſhall
+<pb facs="tcp:35251:3"/>be but as aſhes of no value, but trodden under the foot of men; but the remem<g ref="char:EOLhyphen"/>brance of the godly, even when they themſelves are dead, ſhall ſtill be kept alive, with men to be <hi>renowned,</hi> and with God to be <hi>rewarded:</hi> How precious is the memorial of <hi>Moſes</hi> and <hi>Aaron,</hi> though dead ſo many hundred years ago? The Spirit of God ſets a Star of Ho<g ref="char:EOLhyphen"/>nour upon them, <hi>Exod. 6.27, Theſe are that</hi> Moſes <hi>and that</hi> Aaron.</p>
+            <p>And certainly, among all thoſe Chriſti<g ref="char:EOLhyphen"/>an Vertues, which do en balm the memo<g ref="char:EOLhyphen"/>rial of the dead, there is none of a more ſweet and fragrant ſavour, then the <hi>Grace of Charity.</hi> Witneſs the Speech of our Saviour, concerning the woman that an<g ref="char:EOLhyphen"/>nointed his feet with precious ointment, Matth. <hi>26.13. Verily I ſay unto you, Whereſoever this Goſpel (ſhall be preached in the whole world, there ſhall alſo this, that this woman hath done, be told for a memorial of her,</hi> Maries name now ſmells as ſweet in all the Churches of Chriſt, as her ointment did in the houſe where it was poured out; ſuch an honourable remembrance did bleſſed
+<pb facs="tcp:35251:4"/>
+               <hi>Paul</hi> leave as a Legacy, to <hi>Oneſiphorus,</hi> and his family on the ſame account; <hi>2</hi> Tim. <hi>1.16. The Lord give mercy to the houſe of</hi> Oneſiphorus, <hi>for he oft re<g ref="char:EOLhyphen"/>freſhed me, and was not aſhamed of my chain.</hi> And <hi>Greg. Nazianzen</hi> ſpeaking of <hi>Rahabs</hi> entertaining the Spies has this remarkable Paſſage, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Her chari<g ref="char:EOLhyphen"/>table hoſpitality conduced not only to her commendation, but to her eternal ſalvati<g ref="char:EOLhyphen"/>tion.</p>
+            <p>I knew not to whom the Dedication of this Sermon ſo properly belonged, as to your ſelf, who was ſo nearly related to that eminently charitable Citizen, whoſe death occaſioned the preaching of it. Such as it is, I here preſent unto you; not that the view of this Monument ſhould renew your ſorrow, but that the frequent Commemo<g ref="char:EOLhyphen"/>ration of thoſe vertues wherewith God was pleaſed to enrich him, and the pious fruitful and exemplary converſation wherin he walked before you, might not on<g ref="char:EOLhyphen"/>ly moderate your grief for the loſs of ſo dear a Husband, but alſo provoke you, and all that knew him, to tread in the ſame ſteps,
+<pb facs="tcp:35251:4"/>according to the counſel of the Holy Ghoſt, <hi>Heb. 6.12. Be followers of them who through faith and patience inherit the promiſes.</hi> The Lord Jeſus reveal himſelf more fully and graciouſly to your ſoul, fill your heart with joy and peace in believing; ſweeten your outward loſs with thoſe inward comforts of his Spirit, which may enable you feelingly to ſay with the Pſalmiſt, <hi>In the multitude of my thoughts within me, thy comforts de<g ref="char:EOLhyphen"/>light my ſoul,</hi> Pſal. <hi>94.19.</hi> And this will be better to you then the comfort of all Relations; yea, it will be <hi>Marie's por<g ref="char:EOLhyphen"/>tion,</hi> that ſhall never be taken from you: And that it may be ſo, is, and ſhall be, the hearty prayer of</p>
+            <closer>
+               <signed>Your much obliged Friend and Servant in the Goſpel, <hi>James Nalton.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:35251:5"/>
+            <pb n="1" facs="tcp:35251:5"/>
+            <head>
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>HORT AFFLICTION</hi> Making way for <hi>ETERNAL GLORY.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <bibl>2 COR. 4.17.</bibl>
+                  <p>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r our light affliction which is but for a moment,<note place="margin">The Text.</note> worketh for us a far more exceeding and eternal weight of Glory.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He holy Apoſtle (in the fore-going Verſe) layes down an excellent Leſſon, for us all to learn, by his <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ample,</hi> (though there be ſew, very <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, that have learnt to write after <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Copie)in theſe words, <hi>For this cauſe <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>faint not,</hi> as if he ſhould ſay, Though <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> meet with ſorrows and ſufferings <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> all ſorts, temptations, afflictions,
+<pb n="2" facs="tcp:35251:6"/>perſecutions, reproaches, <hi>fightings with<g ref="char:EOLhyphen"/>out, and fears within,</hi> yet we do not ſit down in deſpondency and deſpair, but we bear the burden that God hath laid upon us without <hi>fainting</hi> and with<g ref="char:EOLhyphen"/>out <hi>fretting:</hi> It is true indeed, our <hi>outward man doth periſh,</hi> that is, our body, together with our bodily health, ſtrength, and welfare, doth decay and decline, but yet our <hi>inward man,</hi> that is, our ſoul, together with the powers and faculties of it, being renewed by the ſpirit of grace, and ſtrengthened by the graces of the ſpirit, is, in the midſt of all theſe troubles and tryals, more and more repaired and revived day by day; this is ſtrange, (may ſome ſay) But would ye know how it comes to paſſe?</p>
+            <p>The Apoſtle anſwers in the words of the Text, and renders a reaſon of his <hi>not fainting</hi> under all his ſufferings. <hi>For our light afflictin which is but for a moment, worketh for us a far more exceeding and eternal weight of glory.</hi>
+            </p>
+            <p>The Text contains in it, the two<g ref="char:EOLhyphen"/>fold <hi>ſtate or condition of a believer,</hi>
+               <pb n="3" facs="tcp:35251:6"/>
+               <list>
+                  <item>One in <hi>this life:</hi>
+                  </item>
+                  <item>The other in the <hi>life to come.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>And both theſe ballanced, or compa<g ref="char:EOLhyphen"/>red one with the other, in a threefold computation.</p>
+            <p>Firſt, The ſtate of a Beleever in this life, is a ſtate of <hi>affliction;</hi> his condi<g ref="char:EOLhyphen"/>tion in the life to come, is a conditi<g ref="char:EOLhyphen"/>on of <hi>glory.</hi>
+            </p>
+            <p>Secondly, The afflictions of a beleever in this life are <hi>light and eaſie;</hi> the glory of beleever in the life to come is a <hi>weighty glory:</hi> Weighty, did I ſay? Yea, It is an <hi>hyperbolical</hi> or <hi>tranſcendent</hi> glory: The Apoſtle uſeth ſuch a high-flown expreſſion here in the Text, as is not to be found in any other Author ſacred or prophane, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, an <hi>exceeding exceſsive weight:</hi> He could not find a word high enough to ex<g ref="char:EOLhyphen"/>preſs the greatneſſe of it: <hi>Deus &amp; coe<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um non patiuntur hyperbolen; God</hi> is ſo <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nfinitely <hi>great,</hi> and <hi>heaven</hi> is ſo uncon<g ref="char:EOLhyphen"/>ceiveably <hi>glorious,</hi> that we cannot ei<g ref="char:EOLhyphen"/>ther think or ſpeak too highly of them, <hi>for eye hath not ſeen, nor ear heard, nei<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her have entred into the heart of man,
+<pb n="4" facs="tcp:35251:7"/>then things which God hath prepared for them that love him,</hi> 1 Cor. 2.9.</p>
+            <p>Thirdly, The Afflictions of a Belee<g ref="char:EOLhyphen"/>ver in this life are <hi>but for a moment;</hi> the glory wherewith he ſhall be inveſted in the life to come, is an <hi>everlaſting glory.</hi>
+            </p>
+            <p>The words being thus opened, and cut out, there are three points of Do<g ref="char:EOLhyphen"/>ctrine eſpecially obſervable in them, which will draw out the ſtrength of the Text, <hi>Viz.</hi>
+            </p>
+            <list>
+               <item>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doctr. </seg>1</label> 1. <hi>The Afflictions which the godly meet with here on earth, make way for that glory and happineſs, which is laid up for them in heaven.</hi>
+               </item>
+               <item>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doctr. </seg>2</label> 2. <hi>The Afflictions of this life are but light and eafie; The glory of the life to come is a weighty and tranſcendent glory.</hi>
+               </item>
+               <item>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doctr. </seg>3</label> 3. <hi>The Afflictions of this life are but for a momenty, The glory prepared in the life to come is an everlaſting glo<g ref="char:EOLhyphen"/>ry.</hi>
+               </item>
+            </list>
+            <p>To begin with the firſt Doctrine which is this: <hi>The Afflictions which the godly meet
+<pb n="5" facs="tcp:35251:7"/>with here on earth, make way for that happineſſe which is laid up for them in heaven.</hi>
+            </p>
+            <p>For the explication and confirmation of this truth, there are three <hi>Queries</hi> would be ſatisfied.</p>
+            <list>
+               <item>1. What thoſe afflictions are which the godly meet with here on earth?</item>
+               <item>2. Why God will have his children exerciſed with thoſe afflictions?</item>
+               <item>3. How or in what reſpect theſe af<g ref="char:EOLhyphen"/>ſlictions make way for that glory and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>appineſs that is laid up for them in <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eaven?</item>
+            </list>
+            <p>For the firſt Querie, What thoſe af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lictions are <hi>&amp;?</hi>
+            </p>
+            <p>
+               <hi>Anſ.</hi> The godly meet with afflictions of all ſorts both <hi>inward</hi> and <hi>outward</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roubles.</p>
+            <p n="1">1. They are exerciſed often with <hi>in<g ref="char:EOLhyphen"/>ward troubles, viz.</hi> temptations and ſpi<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ual deſertions, the tumblings, toſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings, and diſquietments of their own pirits, which lye as a heavy burden up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the ſoul, far more afflictive and in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>upportable, then any outward croſſe or <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffliction on the body or eſtate can be;
+<pb n="6" facs="tcp:35251:8"/>for <hi>a wounded ſpirit who can bear?</hi> Prov. 18.14. Thus ye hear <hi>Heman</hi> that god<g ref="char:EOLhyphen"/>ly wiſe man complaining, <hi>Pſal.</hi> 88.3. <hi>My ſoul is full of troubles;</hi> and <hi>David</hi> crying out, <hi>Pſal.</hi> 42.5. <hi>Why art thou caſt down, O my ſoul, and why art thou diſ<g ref="char:EOLhyphen"/>quteted within me?</hi> yea, it ſometimes falls out, that the <hi>terrors of the Almigh<g ref="char:EOLhyphen"/>ty do ſet themſelves in battel array againſt them,</hi> Job 6.4. and come upon them with that violence, that they are diſtracted under them, <hi>Pſal.</hi> 88.15. <hi>While I ſuffer thy terrors</hi> (ſaith <hi>Heman</hi>) <hi>I am diſtracted;</hi> ſo that, a godly man (ye ſee) may be brought to the condition of <hi>di<g ref="char:EOLhyphen"/>ſtraction;</hi> and a child of light may for a time <hi>walk in darkneſs,</hi> without the leaſt ſenſe or apprehenſion of peace or comfort, <hi>Iſa.</hi> 50.10.</p>
+            <p>Secondly, The godly are exerciſed with <hi>outward troubles,</hi> ſuch as the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the five terrible things that <hi>Ari<g ref="char:EOLhyphen"/>ſtotle</hi> ſpeaks on, <hi>Viz.</hi> Ignominy, poverty, perſecution, ſickneſs and death.</p>
+            <p>For the firſt of theſe, <hi>viz.</hi> Ignomi<g ref="char:EOLhyphen"/>ny, the beſt of Gods children have been reproached and reviled, counted
+<pb n="7" facs="tcp:35251:8"/>
+               <hi>troublers of Iſrael,</hi> as <hi>Elijah</hi> was, 1 <hi>Kings</hi> 18.17. and <hi>men of contention,</hi> is <hi>Jeremy</hi> was, <hi>Jer.</hi> 15.10. and <hi>peſti<g ref="char:EOLhyphen"/>lent fellows, and movers of ſedition,</hi> as <hi>Paul</hi> was, <hi>Acts</hi> 24.5. Yea they are counted <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>ſcum and off-ſcouring of all things to this day,</hi> 1 Cor. 4.13. Was not the lord Jeſus reviled to his very face? <hi>John</hi> 8.48. <hi>Say we not well, that thou art a Samaritan, and haſt a Devil?</hi> Yea, accounted an Impoſtor or <hi>deceiver, Matth.</hi> 27.63. a <hi>blaſphemer, Matth.</hi> 26. 65. <hi>he hath ſpoken blaſphemy;</hi> and a <hi>ſad-man,</hi> John 10.20. <hi>He is mad, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath a devil, why do ye hear him?</hi>
+            </p>
+            <p>For the ſecond of theſe, <hi>Viz. Pover<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y;</hi> it hath been the condition of the Saints here on earth, God hath kept them very low, that by the poverty of their condition, they might be brought to <hi>poverty of ſpirit;</hi> God uſu<g ref="char:EOLhyphen"/>ally keeps his <hi>ſoundeſt ſheep</hi> on the <hi>ſhort<g ref="char:EOLhyphen"/>eſt Commons:</hi> Ye read of <hi>poor Saints <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Jeruſalem,</hi> Acts 15.26. They were precious Saints, yet very poor, yea ſome of <hi>whom the world was not worthy,</hi> yet
+<pb n="8" facs="tcp:35251:9"/>
+               <hi>wandred about in ſheep-skins, and goat<g ref="char:EOLhyphen"/>skins, being deſtitute,</hi> (wanting ſome ne<g ref="char:EOLhyphen"/>ceſſaries for a time) <hi>afflicted and tor<g ref="char:EOLhyphen"/>mented,</hi> Heb. 11.37.</p>
+            <p>For the third particular, <hi>viz. Perſecu<g ref="char:EOLhyphen"/>tion,</hi> it hath been the portion of Gods moſt eminent ſervants, as our Saviour has foretold, <hi>Matth.</hi> 10.23. <hi>They ſhall perſecute you from one City to another;</hi> yea, <hi>all that will live godly in Chriſt Je<g ref="char:EOLhyphen"/>ſus ſhall ſuffer perſecution,</hi> 2 Tim. 3.12. Chriſt himſelf was no ſooner born then baniſhed, <hi>Matth.</hi> 2.13. It was the Mot<g ref="char:EOLhyphen"/>to of famous Mr. <hi>Rothwel,</hi> who was called, the Apoſtle of the <hi>North, Perſe<g ref="char:EOLhyphen"/>cutio eſt pignus futurae gloria,</hi> Perſecuti<g ref="char:EOLhyphen"/>on is the pledge of that eternal glory which we expect.</p>
+            <p>For the fourth, <hi>viz. Sickneſs,</hi> the beſt of Cods ſervants are exerciſed with it; <hi>Timothy</hi> was a rare yong man eminent for piety; <hi>nouriſhed or nurſed up in the words of faith, and of good doctrine,</hi> 1 <hi>Tim.</hi> 4.6. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> as if he had ſuck<g ref="char:EOLhyphen"/>ed piety with his mothers milk, yet he was much acquainted with bodily ſick<g ref="char:EOLhyphen"/>neſs and diſtempers, as appears by <hi>Pauls</hi>
+               <pb n="9" facs="tcp:35251:9"/>counſel to him, 1 <hi>Tim.</hi> 5.23. <hi>Drink no longer water, but uſe a little wine for thy ſtomacks ſake and thine often infirmities;</hi> He had not onlyone infirmity, but divers <hi>infirmities,</hi> and thoſe not once, but <hi>often</hi> diſturbing his health; yea God will have it ſo, that the ſickneſs of the body may conduce to the health of the ſoul: A ve<g ref="char:EOLhyphen"/>ry Heathen could ſay, <hi>Tunde Anaxarchi manticam, nam Anaxarchi minime teris,</hi> Beat my ſack (ſaith he, meaning his body) but thou canſt not hurt my ſoul. So here, God will have the body, which is but the ſack, (for the ſoul is the treaſure in the ſack) beaten and bruiſed with ſick<g ref="char:EOLhyphen"/>neſs, aches and infirmities, that the ſoul may be preſerved and kept without hurt till the day of the Lord Jeſus.</p>
+            <p>For the fifth particular, <hi>viz. Death,</hi> The beſt of Gods ſervants are not ex<g ref="char:EOLhyphen"/>exempted from it; <hi>for what man is he that liveth and ſhall not ſee death? ſhall he deliver his ſoul</hi> (<hi>h. e.</hi> his life) from the hand of the grave, Pſal 89.48. It is true, the Lord Chriſt has delivered his members from the <hi>ſting</hi> of death, but he hath not exempted them from the
+<pb n="10" facs="tcp:35251:10"/>
+               <hi>ſtorke</hi> of death, and the reaſon may be this, becauſe he will have his members conformable to their head, that as the <hi>Captain of our ſalvation was made per<g ref="char:EOLhyphen"/>fect by ſufferings,</hi> Hebr. 2.10. and by the gates of death entred into glory, ſo muſt all his ſouldiers and ſervants enter the ſame way; yea, we ſhall never be freed from the <hi>body of death</hi> (that we carry about us) but only by the <hi>death of the body,</hi> that look as ſin brought death into the world, ſo death ſhall help to carry ſin out of the world, God will have ſuch a curſed Dam to periſh by ſuch a Daughter.</p>
+            <p>Ye ſee the outward troubles to which the Saints on earth are expoſed, Igno<g ref="char:EOLhyphen"/>miny, poverty, <hi>&amp;c.</hi> I might add to theſe, they are often exerciſed with croſſes and diſappointments in their children, and this is a very ſharp affli<g ref="char:EOLhyphen"/>ction, that thoſe children which God hath drawn out of our loins ſhould miſ<g ref="char:EOLhyphen"/>carry to all eternity, and ruſh upon the rock of their own ruine; yet thus it often falls out, that God puniſheth a <hi>good father,</hi> in a <hi>bad ſon,</hi> and then it is a
+<pb n="11" facs="tcp:35251:10"/>
+               <hi>cure</hi> to the father, and a <hi>curſe</hi> to the ſon; thus he puniſhed <hi>David</hi> a good <hi>father,</hi> in <hi>Abſalon</hi> a rebellious <hi>ſon,</hi> that was ta<g ref="char:EOLhyphen"/>ken away, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, in the very act of his rebellion: Thus faithful <hi>Abraham</hi> had a ſcoffing <hi>Iſhmael,</hi> upright <hi>Jeho<g ref="char:EOLhyphen"/>ſaphat</hi> had a wicked <hi>Jehoram,</hi> zealous <hi>Joſiah</hi> that was anon-ſuch for piety, had not <hi>one good ſon</hi> to ſucceed him in the throne.</p>
+            <p>In brief (that I may diſpatch the firſt Querie) the godly here on earth meet with ſufferings from God, and ſuffe<g ref="char:EOLhyphen"/>rings from men, and ſufferings from Satan, and ſufferings from their own hearts, which uſually work them more miſchief, then all the Devils in Hell can do; ſufferings for ſin, and ſufferings for <hi>righteouſneſs;</hi> ſome are exerciſed in one kind, ſome in another, ſome more, and ſome leſſe, but all have their portion in affliction: <hi>Deus unicum habuit filium ſine flagitio, nullum ſine flagello,</hi> God had one only Son (<hi>viz.</hi> the Lord Jeſus) without ſin, but he hath never a Son without ſorrow and affliction.</p>
+            <p n="2">2. Querie for Explication is this;
+<pb n="12" facs="tcp:35251:11"/>Why God will have his children exer<g ref="char:EOLhyphen"/>ciſed with theſe afflictions?</p>
+            <p>
+               <hi>Anſw.</hi> Many Reaſons may be ren<g ref="char:EOLhyphen"/>dred, but I will reduce them to three heads.</p>
+            <list>
+               <item>In reference to their Sins.</item>
+               <item>In reference to their Graces.</item>
+               <item>In reference to their Duties.</item>
+            </list>
+            <p>For the firſt, God is pleaſed to ex<g ref="char:EOLhyphen"/>erciſe them with afflictions in reference to their ſins, either
+<list>
+                  <item>To Prevent ſin.</item>
+                  <item>To Diſcover ſin.</item>
+                  <item>To Purge out ſin.</item>
+               </list>
+            </p>
+            <p n="1">1 God does it to <hi>prevent ſin. He hedgeth up their wayes with thorns, that they may not find their crooked paths,</hi> Hoſ. 2.6. He lets them blood, that he may prevent the Plurifie of Pride and ſelf-confidence and creature depen<g ref="char:EOLhyphen"/>dance. He never adminiſters this ſpi<g ref="char:EOLhyphen"/>ritual Phyſick but when there is need, 1 <hi>Pet.</hi> 1.6. <hi>Ye are in heavineſs (if need be) through manifold temptations,</hi> and God ſees we have need of preventing phyſick, as well, as refreſhing cordials; yea, it is a great mercy that God layes
+<pb n="13" facs="tcp:35251:11"/>ſtumbling blocks in the broad way to hell, that if we ſet foot in that way, we may break our <hi>ſhins</hi> to correct us, rather then break our <hi>necks</hi> to deſtroy us.</p>
+            <p n="2">2. God does it to <hi>diſcover</hi> ſin, as appears by that Text, <hi>Deut.</hi> 8.2. <hi>The Lord thy God led thee theſe forty yeers in the wil<g ref="char:EOLhyphen"/>derneſs to humble thee, and to prove thee, to know what was in thy heart,</hi> to know, that is, to let thee know, they had ne<g ref="char:EOLhyphen"/>ver known ſo much of the baſeneſs and ſinfulneſs of their own hearts, if God had not brought them into a wilder<g ref="char:EOLhyphen"/>neſs; every rod (ye muſt know) hath a voice, <hi>Micah</hi> 6.9. <hi>The Lords voice cryes to the City, Hear ye the rod, and who hath appointed it;</hi> this voice bids us ſearch our hearts and ſay as <hi>Job</hi> did (when the rod was upon his back) <hi>Job</hi> 13.23, 24. <hi>How many are mine iniquities and my ſins, make me to know my tranſgreſsion and my ſin (h. e)</hi> the particular boſome<g ref="char:EOLhyphen"/>ſin to which by nature I am moſt incli<g ref="char:EOLhyphen"/>ned) <hi>Wherefore hideſt thou thy face, and holdeſt me for thine enemy?</hi> Put a quart of Ale in a skillet, and ye ſee not the
+<pb n="14" facs="tcp:35251:12"/>ſcum or droſs that is in it, but when you have ſet the Ale on the fire, then the ſcum appears, which did not before: ſo here, there is a great deal of ſcum and droſs, and filth of corruption that lies hid in our hearts, but the fire of af<g ref="char:EOLhyphen"/>fliction does diſcover it, and makes us more ſenſible of it then ever we were before. It was the ſpeech of <hi>Gaſper O<g ref="char:EOLhyphen"/>levian,</hi> a German Divine, <hi>I never knew ſo much of God and his purity, nor of my own heart and its impurity, as I did in a long ſickneſs.</hi>
+            </p>
+            <p n="3">3 God does it to <hi>purge out</hi> ſin, <hi>Iſai.</hi> 27.9. <hi>By this ſhall the iniquity of Jacob be purged, and this is all the fruit to take a<g ref="char:EOLhyphen"/>way his ſin.</hi> There are three deſperate diſeaſes that would deſtroy the ſoul, which can be purged out no other way, then by this ſharp phyſick of affliction, <hi>viz.</hi> Pride, Security and Earthly-mind<g ref="char:EOLhyphen"/>edneſs: But now by affliction <hi>God hides pride from man,</hi> Job 33.17. By the Rod God awakens the ſinner that he ſleep not the <hi>Sleep of Death:</hi> When <hi>David</hi> was ſo faſt aſleep, that he <hi>ſaid in his proſperity. I ſhall never be moved,</hi>
+               <pb n="15" facs="tcp:35251:12"/>Pſal. 30.6. God by <hi>hiding his face</hi> from him, <hi>ver.</hi> 7. did ſo <hi>trouble</hi> him, that he was awakened out of his Security. And laſtly, By the bitter potion of afflicti<g ref="char:EOLhyphen"/>on, he weans us from the world and the love of it, <hi>My ſoul is even as a weaned child,</hi> Pſal. 131.2. By laying muſtard on the Teat, he keeps us from ſucking too deep a draught of earthly content<g ref="char:EOLhyphen"/>ments. It was a ſavoury ſpeech of worthy Dr. <hi>Sibbs, God embitters all o<g ref="char:EOLhyphen"/>ther things to us, that himſelf only may be ſweet.</hi>
+            </p>
+            <p>
+               <note place="margin">For the ſecond Head.</note>God is pleaſed to exerciſe his children with affliction, in <hi>reference to their Graces,</hi> that they may be tryed, exerciſed and increaſed. Our Saviour counſels the Laodiceans to <hi>buy of him gold tryed in the fire,</hi> Revel. 3.18. By Gold is meant, the golden Graces of his Spirit, and thoſe graces are beſt tryed in the fire of affliction. If our Graces be ſuch as will abide the fiery Tryal, then are they true graces indeed, and not counterfeit; That faith doubtleſs is a true ſaith, that is a <hi>Furnace Faith,</hi> ſuch as was the faith of thoſe three Worthies, Dan. 3.17, 18,
+<pb n="16" facs="tcp:35251:13"/>
+               <hi>Our God whom we ſerve is able to deliver us from the burning fiery furnace, and he will deliver us out of thine hand, O King; but if not, be it known to thee, that we will not ſerve thy Gods, nor worſhip the golden Image which thou haſt ſet up.</hi> Fiery Tryals make golden Chriſti<g ref="char:EOLhyphen"/>ans.</p>
+            <p>And as affliction tryes the <hi>truth</hi> of our Graces, ſo does it alſo try the <hi>ſtrength</hi> of our Graces. Some Graces are like ſtars, <hi>quae interdiu latent, noctu lucent;</hi> They ſhine not in the day time of proſperity, but in the night time of adverſity. The ſtrength of a Fort or Caſtle is not known, but in the time of a ſiege, when it is aſſaulted with batte<g ref="char:EOLhyphen"/>ries and onſets: So here, the ſtrength of faith, and fervency of love, and con<g ref="char:EOLhyphen"/>ſtancy of patience ſhould never be known, were it not for the batteries of hell in ſtrong afflictions and violent temptations.</p>
+            <p>
+               <note place="margin">For the third Head.</note>Thirdly, God will have his children exerciſed with afflictions, in reference to their Duties,
+<pb n="17" facs="tcp:35251:13"/>Partly to
+<list>
+                  <item>Fit them for ſervice.</item>
+                  <item>Quicken them in ſer<g ref="char:EOLhyphen"/>vice.</item>
+               </list>
+            </p>
+            <p n="1">1 To <hi>fit</hi> them for ſervice; Roſes while they are in a Noſegay carryed in your hand, they are of little uſe, but put them in a Still, and bring them to the fire, and then they yeeld you both a ſweet Cake, and ſweet Roſewater: So here, while God carries us, as it were, in his hand, or dandles us on his lap in a way of proſperity, we are in a manner uſeleſſe, or do him very little ſervice; but when he brings us to the fire of affliction, we are more uſefull to him, and he has more ſervice from us. Re<g ref="char:EOLhyphen"/>markable is that Scripture, <hi>Acts</hi> 9.15,16. Our Saviour ſpeaking of <hi>Paul,</hi> He <hi>is</hi> (ſaith he) <hi>a choſen veſſel to me, to bear my Name before the Gentiles;</hi> I, but how does it appear that he was a veſ<g ref="char:EOLhyphen"/>ſel ſo ſerviceable to his Maſter? It fol<g ref="char:EOLhyphen"/>lows in the next words, <hi>For I will ſhew him how great things he muſt ſuffer for my Names ſake;</hi> as if he ſhould ſay, By ſufferings I will fit him for ſervice.</p>
+            <p n="2">2. As afflictions fit us for ſervice, ſo
+<pb n="18" facs="tcp:35251:14"/>they help to <hi>quicken us</hi> in ſervice; we are uſually in our way to heaven like tops, we run no longer then we are whipt; In working for our Lord and Maſter, we are for the moſt part like a team of horſes, that if the whip be not held over them, they will quickly be at a ſtand.</p>
+            <p n="3">3<hi rend="sup">d</hi>. Querie for Explication is this, How or in what reſpect theſe afflictions make way for that glory and happi<g ref="char:EOLhyphen"/>neſs, that is laid up for the Saints in light?</p>
+            <p>
+               <hi>Anſ.</hi> The Text tells ye, <hi>They work for us,</hi> or make way for the obtaining of that Crown that is ſet before us.</p>
+            <p>
+               <hi>Queſt.</hi> But how do they work for us?</p>
+            <p>
+               <hi>Anſ.</hi> They work, not by way of <hi>me<g ref="char:EOLhyphen"/>rit,</hi> (as the Papiſts would have it) for what proportion is there between <hi>finite ſufferings,</hi> and an <hi>infinite or endleſs re<g ref="char:EOLhyphen"/>ward?</hi> between <hi>light</hi> and inconſidera<g ref="char:EOLhyphen"/>ble ſufferings, and a <hi>ſuperlative</hi> weight of <hi>glory?</hi>
+            </p>
+            <p>If our <hi>afflictions</hi> were meritorious, they muſt bear ſome proportion with that
+<pb n="19" facs="tcp:35251:14"/>reward of glory which we work for, and wait for at the great day of Chriſts ap<g ref="char:EOLhyphen"/>pearing; but there is no more equality or proportion between our afflictions in this world, and the glory of the world to come, then there is between a drop of water, and the whole Ocean; ſee what the Apoſtle ſaith to this pur<g ref="char:EOLhyphen"/>poſe, <hi>Rom.</hi> 8.18. <hi>I reckon that the ſuf<g ref="char:EOLhyphen"/>ferings of this preſent time are not wor<g ref="char:EOLhyphen"/>thy to be compared with the glory which ſhall be revealed.</hi> I dare boldly ſay, If a man could endure the torments of Hell for a <hi>thouſand yeers</hi> on earth, he could not thereby merit <hi>one hours</hi> fruiti<g ref="char:EOLhyphen"/>on of glory in heaven. The Papiſts therefore that hope by their Pennances, and Purgatory ſatisfactions to merit heaven at the hands of God, ſhall be ſo far from meriting by their ſufferings, that they ſhall ſuffer for their merits.</p>
+            <p>
+               <hi>Queſt.</hi> But if afflictions do not work glory by way of merit, how then do they work it?</p>
+            <p>
+               <hi>Anſ.</hi> They work glory on a three<g ref="char:EOLhyphen"/>fold account. 1. By the free grace and mercy of a bountiful God and Father,
+<pb n="20" facs="tcp:35251:15"/>who rewards the ſervices and ſufferings of his children, for his <hi>own ſake,</hi> and his promiſe ſake, and according to his own heart; ſo doth <hi>David</hi> acknowledge in that gratulatory confeſſion, 2 <hi>Sam.</hi> 7.21. <hi>For thy words ſake, and according to thy own heart haſt thou done all theſe great things;</hi> Yea he looks eſpecially at the merits of his own dear Son our bleſſed Redeemer who has purchaſed this privi<g ref="char:EOLhyphen"/>ledge for us with his own blood, that <hi>all things</hi> (even afflictions themſelves) <hi>ſhould work together for our good,</hi> Rom. 8.28.</p>
+            <p n="2">2. Afflictions work or make way for glory, by making us <hi>conformable to Chriſt our Head,</hi> for <hi>he firſt drunk of the brook in the way,</hi> (that is, as he paſſed through the world, he drunk of a trou<g ref="char:EOLhyphen"/>bled brook of bitter ſorrows and ſuffer<g ref="char:EOLhyphen"/>ings in the day of his humiliation) <hi>before he lifted up his head</hi> in the day of his exal<g ref="char:EOLhyphen"/>tation, <hi>Pſal.</hi> 110.7. And therefore our Sa<g ref="char:EOLhyphen"/>viour uſed that language to his Diſciples, <hi>Luke</hi> 24.26. <hi>Ought not Chriſt</hi> firſt <hi>to have ſuffered theſe things,</hi> and ſo <hi>to enter into his glory?</hi> So then theſe <hi>afflictions</hi> when they are ſanctified make us conforma<g ref="char:EOLhyphen"/>ble
+<pb n="21" facs="tcp:35251:15"/>to a ſuffering Saviour, and if we be conformable to him in his <hi>Croſs,</hi> We ſhall alſo be conformable to him in his <hi>Crown, If we ſuffer with him, we ſhall alſo be glo<g ref="char:EOLhyphen"/>rified with him,</hi> Rom 8.17.</p>
+            <p n="3">3. Afflictions work glory for us, be<g ref="char:EOLhyphen"/>cauſe they <hi>work us</hi> for that glory, that is, they fit us and prepare us for the fru<g ref="char:EOLhyphen"/>ition of it; They help to <hi>make us meet to be partakers of the inheritance of the Saints in light,</hi> Col. 1.12.</p>
+            <p>
+               <hi>Qu.</hi> How do they fit us or make us meet to be partakers of that eternal glory?</p>
+            <p>
+               <hi>Anſ.</hi> Theſe three ways do they fit us for glory: 1. They help to purge out that droſſe and filth of corruption, which as it is odious to the Lord, ſo is it prejudicial to our own ſalvation, for <hi>there ſhall in no wiſe enter into heaven any thing that defileth,</hi> Rev. 21.27. Now affliction helps to purge out this filth, <hi>to purifie us and make us white,</hi> Dan. 11.35. Hence is it that affliction is compared to a <hi>furnace,</hi> Iſa. 48.10. <hi>I have choſen thee in the furnace of affli<g ref="char:EOLhyphen"/>ction:</hi> Look what the <hi>fire</hi> is to the mettal, or the <hi>fan</hi> to the chaffe, or the
+<pb n="22" facs="tcp:35251:16"/>
+               <hi>file</hi> to the rough iron, the ſame is af<g ref="char:EOLhyphen"/>fliction to every teachable ſinner, It helps to rub off his ruſt, to cleanſe him from his chaffe, and to refine him for his Maſters uſe.</p>
+            <p n="2">2. They fit us for glory, by helping us to act and exerciſe our graces, and the more our graces are brightned, the more fit are we to have communion with a holy God: Therefore <hi>he corrects us for our profit, that we may be partakers of his holineſs,</hi> Herb. 12.10. Now the more holineſs we have here, the more we are fitted for eternal happineſs here<g ref="char:EOLhyphen"/>after.</p>
+            <p>Thirdly, they fit us for glory, Becauſe they <hi>wean</hi> us from the world, and the love of it: The Lord by ſome ſmart<g ref="char:EOLhyphen"/>ing rod or other knocks us upon the fingers, when he ſees us take too faſt hold on theſe uncertain vanities; the hardſhip and ſeveral ſtraits that we meet with on earth, make us long to be in that place, where <hi>all tears ſhall be wiped from our eyes,</hi> Revel. 21.4. yea <hi>everlaſting joy ſhall he upon our heads, and ſorrow and ſighing ſhall flee away,</hi> Iſai. 35.10.</p>
+            <pb n="23" facs="tcp:35251:16"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> For the Application of this Point: We may improve it: 1. By way of In<g ref="char:EOLhyphen"/>formation; There are theſe two Do<g ref="char:EOLhyphen"/>ctrinal Inferences that may be hence deduced.</p>
+            <p>
+               <label>Firſt Leſ<g ref="char:EOLhyphen"/>ſon.</label> The firſt is this: That <hi>afflictions are not ſo evil, grievous</hi> or <hi>hurtful</hi> as we take them to be.</p>
+            <p>We look upon afflictions uſually with an eye of prejudice, an evill eye, and therefore when any unexpected croſſe or calamity does befall us, we are ready to ſay as <hi>Ahab</hi> did to <hi>Elijah,</hi> 1 Kings 21.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0. <hi>Haſt thou found me out O mine enemy?</hi> But pull off the vizard from this unwelcome gueſt, and ye ſhall find that the croſſe has more ſweetneſs then ſharpneſs in it. It is true, no afflicti<g ref="char:EOLhyphen"/>on <hi>or chaſtening</hi> (ſaith the Apoſtle) <hi>Hebr.</hi> 12.11.) for the <hi>preſent, ſeemeth to be joyous, but rather grievous; neveethe<g ref="char:EOLhyphen"/>leſs afterward it yeelds the peaceable fruit of righteouſneſs, to them that are exer<g ref="char:EOLhyphen"/>ciſed thereby:</hi> The pleaſures of ſin are ſweet for the preſent, <hi>Stollen waters are ſweet, and bread eaten in ſecret is pleaſant, Prov.</hi> 9.17. But afterward they are
+<pb n="24" facs="tcp:35251:17"/>more bitter then gall and wormwood; they may well be compared to the <hi>lips of a ſtrange woman,</hi> Pro. 5.3<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>5. <hi>They drop as an honie-comb and her mouth is ſmooth<g ref="char:EOLhyphen"/>er then oyl, but her end is bitter as worm<g ref="char:EOLhyphen"/>wood, ſharp as a two-edged ſword,</hi> for <hi>her feet go down to death, and her ſteps take hold of hell;</hi> Or the pleaſures of ſin may be compared to the <hi>Locuſts</hi> which <hi>John</hi> ſaw at the ſounding of the fifth Trumpet, <hi>Rev,</hi> 9.7, 10. <hi>Their faces were as the faces of men, and they had hair as the hair of women, but they had tails like unto Scorpions, and there were ſtings in their tails;</hi> on the contrary affliction is bitter for the preſent, but profitable afterward to every one that can rightly improve it: It is a ſharp Schoolmaſter, but it makes good Schollars; <hi>Schola crucis, eſt ſchola lucis,</hi> the <hi>ſchool of cor<g ref="char:EOLhyphen"/>rection is the ſchool of inſtruction,</hi> and in this ſchool we many times learn more in a moneth, then we did in ſeven years before; witneſs <hi>Manaſſeh,</hi> who in all the time of his proſperity, had not learnt that one leſſon, <hi>To know God aright,</hi> h. e. to know him as a ſin-hating, ſin reven<g ref="char:EOLhyphen"/>ging
+<pb n="25" facs="tcp:35251:17"/>God who will not ſpare the proud<g ref="char:EOLhyphen"/>eſt Potentates upon earth, if they do provoke him, but when he was brought to the ſchool of correction, <hi>he humbled himſelf greatly before the God of his Fa<g ref="char:EOLhyphen"/>thers,</hi> 2 <hi>Chron.</hi> 33.12. and the Text ſaith, <hi>Then</hi> Manaſſeh <hi>knew that the Lord he was God,</hi> ver. 13. Affliction in this re<g ref="char:EOLhyphen"/>gard may be compared to a froſty mor<g ref="char:EOLhyphen"/>ning in the winter-ſeaſon, it is ſomwhat ſharp, but it helps to clear the blood:</p>
+            <p>How many Chriſtians have you and I known (in our Obſervation) that have been <hi>whipt to heaven</hi> by adverſity, whom proſperity would have ſuddenly, and yet inſenſibly drawn to hell ? Is there never a ſoul here preſent that can ſay experimentally, as <hi>Themiſtocles</hi> did, <hi>Pe<g ref="char:EOLhyphen"/>riiſſem, niſi periiſſem;</hi> I had been un<g ref="char:EOLhyphen"/>done, if I had not been undone? Lord, if thou hadſt ſpared the rod, thou hadſt loſt thy child; but bleſſed for ever be thy name, thou didſt not ſuffer me to run poſt to hell for the want of a fa<g ref="char:EOLhyphen"/>therly whipping.</p>
+            <p>
+               <label>Second Leſſon.</label> The ſecond Leſſon by way of Infe<g ref="char:EOLhyphen"/>rence is this:</p>
+            <pb n="26" facs="tcp:35251:18"/>
+            <p>
+               <hi>That the wiſdome of God is infinite and unſearchable,</hi> in that he can make good <hi>Sampſons</hi> riddle to all them that fear his name; <hi>Out of the eater comes forth meat, and out of the ſtrong comes forth ſweetneſs,</hi> Judg. 14.14. The Lord can (for the godly's ſake) bring good out of evill, grace out of ſin, light out of darkneſs, glory out of affliction, yea heaven out of hell.</p>
+            <p>The ways of God (as one ſaith excel<g ref="char:EOLhyphen"/>lently) <hi>ſeem full of contradiction to us, becauſe it is his uſual manner to bring things to paſſe by contrary means;</hi>
+               <note place="margin">
+                  <hi>Sibs</hi> ſoul-conflict.</note> for ex<g ref="char:EOLhyphen"/>ample, when he means to juſtifie a ſin<g ref="char:EOLhyphen"/>ner, he condemns him firſt; when he means to comfort a ſinner he caſts him down firſt, when he intends to bring a ſinner to heaven he brings him by the gates of hell firſt, when he means to ſet a crown of glory on his head, he will have him to wear a crown of thorns firſt; <hi>Oh how unſearchable are his judgements, and his ways paſt finding out?</hi> Rom. 11.33. Well may we conclude with the Prophet, <hi>This</hi> (wonderful diſpenſation of providence) <hi>cometh forth from the
+<pb n="27" facs="tcp:35251:18"/>Lord of hoſts, who is wonderful in coun<g ref="char:EOLhyphen"/>ſel, and excellent in working,</hi> Iſai. 28.29.</p>
+            <p n="2">2 <hi>Uſe.</hi> A ſecond Improvement that live may make of this Doctrine is this; If afflictions make way for glory, it would be a profitable and needful in<g ref="char:EOLhyphen"/>quiry for every one of us, by a ſerious ſelf-ſcrutiny and impartial examinati<g ref="char:EOLhyphen"/>on to call our ſelves to an account, to ſearch and ſift our hearts and lives, whe<g ref="char:EOLhyphen"/>ther the afflictions that we have met with have had that kindly operation on our ſouls, yea or no: I beleive, there are none of you that hear me this day, but ye have had your tryals in one kind or other, and in ſome degree or other; but the queſtion is, What ſpiritual advan<g ref="char:EOLhyphen"/>tage have you made by them ? Have they been ſent as Gods meſſengers, in a tendency to that eternal happineſs that ye look and long for?</p>
+            <p>
+               <hi>Queſt.</hi> It may be you will ask, How may I know that affliction is working for me this eternal glory that the Text ſpeaks of?</p>
+            <p>
+               <hi>Anſ.</hi> Take this for a certain rule; If affliction be ſanctified doubtleſſe it is
+<pb n="28" facs="tcp:35251:19"/>making way for future glory, for San<g ref="char:EOLhyphen"/>ctification is the way to Salvation.</p>
+            <p>Therefore <hi>ſanctified affliction</hi> is better then <hi>unſanctifi'd proſperity;</hi> ſanctif'd ſick<g ref="char:EOLhyphen"/>neſs is better then unſanctified health, ſanctified loſſes are better then unſancti<g ref="char:EOLhyphen"/>fied gain. For <hi>what is the hope of the hypo<g ref="char:EOLhyphen"/>crite, though he has gained</hi> (a great eſtate) <hi>when God takes away his ſoul?</hi>
+               <note place="margin">Job 27.8.</note> or <hi>what ſhall it profit a man to gain the whole world, and loſe his own ſoul?</hi> Mark 8.38. This thou ſhalt find by experience, whoever thou art that haſt been train'd up in the ſchool of affiction; let thy condition be what it will be, never ſo poor or low, or friendleſs or comfortleſs. yet if it be ſanctified to thee, it is a mercy, yea, it is a greater mer<g ref="char:EOLhyphen"/>cy then if God ſhould give thee all the treaſures or pleaſures the earth can afford thee, for God may give riches &amp; honors, and theſe outward accommodations in <hi>anger,</hi> Hoſ. 13.11. <hi>I gave thee a King in mine anger, &amp; took him away in my wrath.</hi> But <hi>God</hi> never gives a ſanctified uſe of a<g ref="char:EOLhyphen"/>ny condition in anger, but it is always in <hi>love</hi> and <hi>favour.</hi> Rev. 3.19. <hi>As many as I love, I rebuke and chaſten: though he may ſeverely chaſten thee, he may at the
+<pb n="29" facs="tcp:35251:19"/>ſame time dearly love thee.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> But then it may be dema<g ref="char:cmbAbbrStroke">̄</g>ded, <hi>How may I know that my affliction is ſanctified to me?</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 
+               <note place="margin">Signs of ſanctified affliction.</note>I anſwer, Then is affliction ſanctified <hi>to</hi> thee, when thou art ſanctified <hi>by</hi> the affli<g ref="char:EOLhyphen"/>ction: For example, 1. If it make thee more <hi>humble and baſe in thine own eyes;</hi> If thou canſt ſay feelingly with the Church in <hi>Babylon, Remembering my affliction and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny</hi> rebellion (ſo ſome read the Hebrew word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) <hi>the wormwood and the gall, my ſoul has them ſtill in remembrance, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s humbled in me,</hi> Lam. 3.19, 20. Sound <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umiliation is a ſpecial fruit &amp; product of ſanctified affliction, for the more the ſoul <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s humbled, the more it is <hi>emptied</hi> of ſelf-righteouſneſs, &amp; ſelf-confidence; and the more it is emptied, the more <hi>capable</hi> it is of Gods grace and mercy; it is the hum<g ref="char:EOLhyphen"/>bled ſoul that prizes the Lord Jeſus at the higheſt rate, &amp; ſaith of him as the <hi>Church</hi> does, <hi>Cant.</hi> 5.10. <hi>My beloved is white and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uddy,</hi> (white in his innocency, and ruddy <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n his paſſion) <hi>the choiceſt of ten thouſand;</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t is true, our humiliation does not ſerve <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o make us more precious to <hi>Chriſt,</hi> but it <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>vs to make <hi>Chriſt</hi> more precious to us,</p>
+            <p n="2">2. Thy affliction is ſanctified if it
+<pb n="30" facs="tcp:35251:20"/>make thee more <hi>holy and heavenly</hi> mind<g ref="char:EOLhyphen"/>ed; if the hardſhip thou meeteſt with here in the wilderneſs, make thee long to be at thy Fathers houſe: If the loſſe of earthly treaſures or outward advantages, make thee lay up treaſure in Heaven, <hi>where neither moth can corrupt, nor theeves break in and ſteal;</hi> if the diſap<g ref="char:EOLhyphen"/>pointments thou meeteſt with here on earth, and the uncertainty of outward riches, make thee more eagerly ſeek for the <hi>durable riches</hi> which <hi>Solomon</hi> ſpeaks of, <hi>Prov.</hi> 8.18. <hi>Riches and honour are with me,</hi> (ſaith <hi>Wiſdome</hi>) <hi>yea durable riches and righteouſneſs;</hi> why, what are thoſe durable riches? ſurely ſuch as theſe, peace of Conſcience, joy in the Holy Ghoſt, aſſurance of Gods love and favour, an evidence of Chriſt Jeſus dwelling in us, the ſaving ſanctifying graces of the ſpirit of God, and inward comfort flowing from thoſe graces, theſe are ſuch commodities that the world can neither give us, nor take from us; they are <hi>Maries</hi> portion <hi>that ſhall never be taken away,</hi> Luke 10.42. If, I ſay, af<g ref="char:EOLhyphen"/>fliction make thee drive a trade for hea<g ref="char:EOLhyphen"/>ven
+<pb n="31" facs="tcp:35251:20"/>more vigorouſly, certainly affliction is ſanctified to thee, and thou art much bettered by thy affliction.</p>
+            <p n="3">
+               <label type="milestone">
+                  <seg type="milestoneunit">Sign. </seg>3</label> 3. If thy affliction teach thee obedi<g ref="char:EOLhyphen"/>ence to thy heavenly Father. 1. <hi>Active obedience</hi> to do what he enjoyneth; If thou canſt ſay with <hi>Paul</hi> (after he was unhorſt and humbled) <hi>What wilt thou have me to do Lord?</hi> Acts 9.6. as if he ſhould ſay, though it be never ſo croſſe and contrary to my carnal and corrupt nature, though it be a parting with my <hi>right hand,</hi> or <hi>right eye,</hi> (a ſin as dear to me as either of them) I will be con<g ref="char:EOLhyphen"/>tent to do it. 2. If it teach thee <hi>Paſsive obedience</hi> patiently to ſuffer what he in<g ref="char:EOLhyphen"/>flicteth; as it was ſaid of our dear Sa<g ref="char:EOLhyphen"/>viour, <hi>Hebr.</hi> 5.8. <hi>Though he were a Son, yet learned he obedience by the things which he ſuffered;</hi> ſo if thou canſt ſay, <hi>It is good for a man that he bear the yoke in his youth; I will put my mouth in the duſt, if ſo be there may be hope,</hi> Lam. 3.17, 29. In brief, if thou canſt ſay, as the Church does <hi>Mic.</hi> 7.9. <hi>I will bear the indignation of the Lord, becauſe I have ſinned againſt him;</hi> certainly affliction
+<pb n="32" facs="tcp:35251:21"/>has a kindly work upon thy ſoul.</p>
+            <p n="4">4. If affliction teach thee to prize mercies more, and to ſurfet on them leſſe, to be more thankful in uſing them, and more fearful of abuſing them, then thou haſt been heretofore, it is a token thou haſt profited by thy affliction; we uſually, in the Sun-ſhine of proſperity, fall aſleep, and forget God and our du<g ref="char:EOLhyphen"/>ty to him, yea forget our ſelves, and the <hi>vows we made in time of trouble;</hi> it fares with us as with little children, the pap makes us wanton, <hi>Hoſ.</hi> 13.6. <hi>Ac<g ref="char:EOLhyphen"/>cording to their paſture, ſo were they filled,</hi> (<hi>h. e.</hi> when God had brought them out of the wilderneſſe into a land flow<g ref="char:EOLhyphen"/>ing with milk and honey, and had fed them to the full) <hi>they were filled, and their heart was exalted, therefore have they forgotten me; Ephraim</hi> and <hi>Manaſ<g ref="char:EOLhyphen"/>ſeh</hi> (ye know) were brethren, <hi>Ephraim</hi> in Hebrew ſignifies fruitful, <hi>Manaſſeh</hi> ſignifies forgetful, fruitfulneſs and for<g ref="char:EOLhyphen"/>getfulneſs (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) are ſworn brethren; but if the Lord by imbittering our comforts, or mingling water with our wine, teach us tempe<g ref="char:EOLhyphen"/>rance,
+<pb n="33" facs="tcp:35251:21"/>or a <hi>ſpiritual</hi> moderation in our <hi>carnal deſires,</hi> that which the Scripture call, 1 <hi>Cor.</hi> 7.29, 31. That <hi>they who have wives be as though they had none, and they that rejoyce, be as though they rejoyced not and they that uſe this world, is not overuſing it</hi> (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>) Then certainly ſuch an imbitterment is in mercy.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sign. </seg>5</label> Fifthly, If Affliction help to <hi>melt and mollifie</hi> thy heart, as <hi>Job</hi> ſpake (though in another ſenſe) <hi>God maketh my heart ſoft, and the almighty troubleth me,</hi> Job 23.16. God ſometimes ſoftens our <hi>hearts</hi> by troubling of us: If the bitterneſs of ſorrow make thee to taſt the bitterneſſe of ſin, and feelingly cry out, <hi>O what a bitter thing it is that I have forſaken the Lord my God, who is the fountain of li<g ref="char:EOLhyphen"/>ving water, and have been digging bro<g ref="char:EOLhyphen"/>ken ciſterns that will hold no water,</hi> Jer. 2.19, 13. O what an evill and bitter thing it is, that I have ſo often parted with my peace for the tickling pleaſures of ſin for a ſeaſon? But it is bitter and bitter again, that I have <hi>grieved that ho<g ref="char:EOLhyphen"/>ly Spirit of God, wherewith I am</hi> (or
+<pb n="34" facs="tcp:35251:22"/>might have been) <hi>ſealed up to the day of redemption,</hi> Eph. 4.30. If thy ſoul can beſpeak it ſelf in that language which <hi>Joſephs</hi> brethren uſed one to a<g ref="char:EOLhyphen"/>nother (after their conſciences were a<g ref="char:EOLhyphen"/>wakened for that ſinful and injurious act of ſelling their innocent brother into the hands of the <hi>Iſhmaelites,</hi>) <hi>Gen.</hi> 42.21. <hi>We are verily guilty concerning our brother, in that we ſaw the anguiſh of his ſoul, when he beſought us, and we would not hear;</hi> ſo if thou canſt ſay thus to thy ſoul, <hi>Ah vile unworthy wretch that I am,</hi> verily I am guilty, deeply guilty before the Lord, for my unkindneſs and undutifulneſs to the Holy Spirit of God, when he beſought med (in his heart-melting motions) ſaying, <hi>Oh do not that abominable thing that I hate,</hi> Jer, 44.4. Do not go on in a way of pride and preſumption, ſecurity and formality, bru<g ref="char:EOLhyphen"/>tiſhneſs and earthly mindedneſs, but I would not hearken; I turned a deaf ear to all his piercing motions and preſ<g ref="char:EOLhyphen"/>ſing commands.</p>
+            <p>
+               <hi rend="margQuotes">Alas, alas! Is not this that ſweet ſpirit of grace, whoſe counſels I have
+<pb n="35" facs="tcp:35251:22"/>deſpiſed, whoſe ſecret whiſperings I have ſlighted, whoſe warnings I have reſiſted, and whoſe warmings I have quenched? Might it not be juſt with God to ſay to his ſpirit, <hi>Never knock more at</hi> this ſinners heart, never <hi>ſtrive</hi> more with him to bring him to repen<g ref="char:EOLhyphen"/>tance, but ſeeing <hi>he will be filthy, let him be filthy ſtill?</hi> Oh that for this my eyes could run down with tears, and my eye-lids guſh out with waters,</hi> as the Pro<g ref="char:EOLhyphen"/>phet ſpeaks, <hi>Jer.</hi> 9.18.</p>
+            <p>If thy heart be thus melted with ſome penitential thawings, and heart-irking grief for thy miſcarriages; certainly af<g ref="char:EOLhyphen"/>fliction has had a kindly work upon thy ſoul, ſuch a ſoftning and ſanctifying af<g ref="char:EOLhyphen"/>fliction is an evident ſign of thy adop<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sign. </seg>6</label> Sixthly, Then is affliction ſanctified when it makes thee more <hi>fearful of of<g ref="char:EOLhyphen"/>fending</hi> ſuch a gracious God and Fa<g ref="char:EOLhyphen"/>ther: If it have taught thee that leſſon which <hi>Elihu</hi> lays down for us all to learn, <hi>Job</hi> 34.31, 32. <hi>Surely it is meet to be ſaid unto God, I have born chaſtiſe<g ref="char:EOLhyphen"/>ment, I will not offend any more, that
+<pb n="36" facs="tcp:35251:23"/>which I ſee not teach thou me, if I have done iniquity, I will do no more.</hi> If thou canſt ſay with <hi>David,</hi> (who had been trained up in the School of affliction) <hi>My fleſh trembleth for fear of thee, and I am afraid of thy judgements,</hi> Pſal, 119.120. Burnt child, we ſay, dreads the fire. <hi rend="margQuotes"> If it be ſo with thee, that thou canſt ſay, I dare not be bold with thoſe ſins for which I have formerly ſmarted; I dare not be bold with the fire where<g ref="char:EOLhyphen"/>with I have been ſcorched; nor ſtum<g ref="char:EOLhyphen"/>ble on the ſame ſtone whereon I have been bruiſed:</hi> then thou mayeſt con<g ref="char:EOLhyphen"/>clude, thy affliction is ſanctified to thee, and thou art ſanctified by it.</p>
+            <p>But now on the contrary, If after God has made thee ſmart under many rods, and exerciſed thee with various afflictions in thy body, or in thy ſoul, or in thy eſtate, or in thy relations, and yet thou be as <hi>proud</hi> and <hi>ſelf-confident</hi> as ever, as <hi>carnal</hi> and earthly-minded as ever, as <hi>ſtubborn</hi> and <hi>inflexible</hi> to Gods commands as ever, as <hi>unthank<g ref="char:EOLhyphen"/>full</hi> in the uſe of mercies, and as rea<g ref="char:EOLhyphen"/>dy to abuſe them as ever; as <hi>hard heart<g ref="char:EOLhyphen"/>ed</hi>
+               <pb n="37" facs="tcp:35251:23"/>and unbroken as ever, and as <hi>fearleſs</hi> of offending God, and careleſs to pleaſe him as ever thou haſt been heretofore; doubtleſs thy afflictions are not at all ſanctified to thee, neither art thou one jot made better by them; they are but the fore-runners of thy <hi>everlaſting de<g ref="char:EOLhyphen"/>ſtruction from the preſence of the Lord, and from the glory of his power,</hi> where<g ref="char:EOLhyphen"/>of the Apoſtle ſpeaks, 2 <hi>Theſ.</hi> 1.9. they are but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the pre<g ref="char:EOLhyphen"/>libations or foretaſts of the puniſh<g ref="char:EOLhyphen"/>ments in Hell fire.</p>
+            <p>I have dealt ſomewhat plainly and freely with you in this <hi>Uſe of Exami<g ref="char:EOLhyphen"/>nation!</hi> O that you would deal free<g ref="char:EOLhyphen"/>ly and unflatteringly with your own ſouls! Oh that you would be true to your own ſpirits, and that ye did but love your ſelves ſo well, as not to be<g ref="char:EOLhyphen"/>guile your own ſouls in the latter end.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> The third Improvement that may be made of this Doct<g ref="char:punc">▪</g> in, is for Exhortati<g ref="char:EOLhyphen"/>on, To put us upon the practice of three needful Duties.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Duty. </seg>1</label> The firſt is this, If afflictions make way for glory, we ſhould <hi>juſtifie the
+<pb n="38" facs="tcp:35251:24"/>Lord in all his providences and proceed<g ref="char:EOLhyphen"/>ings toward us.</hi> Though the rod be never ſo ſharp , and the burthen we groan under be never ſo heavy, yet let us keep up good thoughts of God, and ſay with the godly Levites in their con<g ref="char:EOLhyphen"/>feſſion, <hi>Neh.</hi> 9.33. <hi>Howbeit thou art juſt in all that is brought upon us, for thou haſt done right, but we have done wicked<g ref="char:EOLhyphen"/>ly.</hi> Lord, thou ſmiteſt not without cauſe, thou ſeeſt we ſtand in need of ſuch ſharp phyſick, elſe thou wouldſt deal more gently with us. It was the ſpeech of <hi>Mauritius</hi> the Emperour, when that bloody and treacherous <hi>phocas</hi> ſlew his children before his eyes, uſing the words of <hi>David,</hi> Pſal. 119.137. <hi>Righ<g ref="char:EOLhyphen"/>teous art thou, O Lord, and upright are thy judgments.</hi> And it was the Legacy that Mr. <hi>Ezekiel Culverwel</hi> (an ancient grave Divine in this City) gave to his daughter after he had been many years bed-rid, and ſore afflicted with the Gout and Stone, <hi>Be ſure</hi> (ſaith he) <hi>in every condition that God caſts you into, keep up good thoughts of God, and ſpeak well of his name.</hi> Wicked men in the
+<pb n="39" facs="tcp:35251:24"/>day of their calamity, are ready to diſ<g ref="char:EOLhyphen"/>pute the croſs which they ſhould take up, and quarrel with every rod that God laies on them: Though their condition be above their worth, yet their pride is above their condition; and therefore they are ever murmuring in ſuch lan<g ref="char:EOLhyphen"/>guage as the Iſraelites uſed, <hi>Numb.</hi> 14.3 <hi>Wherefore hath the Lord brought us into this Land to fall by the ſword, that our wives and our children ſhould be a prey</hi> (to our enemies the Canaanites) <hi>were it not better for us to return into Egypt?</hi> And when the Prophet <hi>Jeremy</hi> threatned them with the Caldean Army, that ſhould even in their dayes, and before their eyes <hi>take away the voice of mirth, and the voice of gladneſs, the voice of the Bridegroom, and the voice of the Bride, Jer.</hi> 16.9, 10. All that they replyed was this, <hi>Wherefore has the Lord pro<g ref="char:EOLhyphen"/>nounced all this great evil againſt us? What is our iniquity? or what is our ſin that we have committed againſt the Lord our God?</hi> But the godly have another ſpirit and a better language, for they ſay with holy <hi>Ezra,</hi> chap. 9.13. <hi>After
+<pb n="40" facs="tcp:35251:25"/>all this is come upon us for our evil deeds, and for our great treſpaſſe, Thou, O our God haſt puniſhed us leſſe then our iniquities do deſerve;</hi> Yea, (ſaith <hi>David</hi>) <hi>Pſalm</hi> 119.75. <hi>I know, O Lord, that thy judg<g ref="char:EOLhyphen"/>ments are right, and that thou in faith<g ref="char:EOLhyphen"/>fulneſs haſt afflicted me.</hi> This is the firſt Duty.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Du∣ty. </seg>Second</label> Secondly, We ſhould learn to bear every rod, not only <hi>patiently,</hi> but alſo <hi>thankfully.</hi>
+            </p>
+            <p n="1">1 Bear it patiently, becauſe we have ſinned; ſo did the Church, Mic. 7.9. <hi>I wil bear the indignation of the Lord, be<g ref="char:EOLhyphen"/>cauſe I have ſinned againſt him, until he plead my cauſe, and execute judgment for me.</hi>
+            </p>
+            <p>It was a ſavoury and ſubmiſſive ſpeech of <hi>Jo Brown</hi> a Martyr in Q. <hi>Maries</hi> daies, <hi>Lord, I will bow, and thou ſhalt beat me.</hi>
+            </p>
+            <p n="2">2 Bear the rod thankfully, becauſe God can order it to our advantage; for <hi>all the paths of the Lord</hi> (all the paſſages of his providence) <hi>are mercy and truth to them that keep his Covenant and his teſti<g ref="char:EOLhyphen"/>monies,</hi> Pſal. 25.10. Even paths of ſe<g ref="char:EOLhyphen"/>verity are paths of mercy; and we know
+<pb n="41" facs="tcp:35251:25"/>(ſaith the Apoſtle) we can ſpeak it by experience,<note place="margin">
+                  <hi>Rom.</hi> 8.28.</note> 
+               <hi>that all things ſhall work toge<g ref="char:EOLhyphen"/>ther for good to them that love God, &amp;c.</hi> Though the paſſages of providence ta<g ref="char:EOLhyphen"/>ken ſingly by themſelvs alone, ſeem to work againſt us, as <hi>Jacob</hi> ſaid on a ſad occaſion, Gen, 42.36. <hi>Me ye have bereav<g ref="char:EOLhyphen"/>ed of my children, Joſeph is not, and Si<g ref="char:EOLhyphen"/>meon is not, and ye wil take Benjamin away alſo; All theſe things are againſt me;</hi> yet take theſe providences together, &amp; they are all for us, not againſt us: As Letters in a Printers ſhop if ye take them ſingly by themſelves, they will make never a word, but if you put them together, they wil make firſt one word, and then ano<g ref="char:EOLhyphen"/>ther, one line, and then another till the whole book be printed. A needle woman if ſhe take one colour alone, can make no curious work of it, but if ſhe put many colours together, then ſhe makes an ex<g ref="char:EOLhyphen"/>cellent piece; So here, we muſt put all providences (both of <hi>goodneſs</hi> and <hi>ſeveri<g ref="char:EOLhyphen"/>ty,</hi> as the Apoſtle phraſeth it, <hi>Rom.</hi> 11.12) together, and not judge of Gods working by one act, but by many acts together, and then we ſhall find them all
+<pb n="42" facs="tcp:35251:26"/>tending to our ſalvation, and ending in it: For</p>
+            <p n="1">1. Either by a <hi>Temporal evil</hi> God will work a <hi>Spiritual Good,</hi> to make us more holy, humble, and heavenly-minded.</p>
+            <p n="2">2. Or ſecondly, By a <hi>leſſe temporal e<g ref="char:EOLhyphen"/>vil,</hi> God will work a <hi>greater temporal Good;</hi> as <hi>Joſephs</hi> impriſonment was the way to <hi>Joſephs</hi> advancement: <hi>Jobs</hi> great loſſes, were recompenced with far greater gain, for he loſt but <hi>ſeven thou<g ref="char:EOLhyphen"/>ſand ſheep, and three thouſand Camels, and five hundred yoak of oxen,</hi> Job 1.3, 14, 16. But God recompenced all his loſſes with double gain, for he had <hi>fourteen thouſand ſheep, and ſix thouſand camels, and a thouſand yoak of oxen, and ſo God bleſſed the latter end of Job, more then his beginning,</hi> Job 42.12.</p>
+            <p>Or thirdly, by a <hi>temporal</hi> evil, God wil work an <hi>eternal good</hi> for his children, as it is here in the Text, Our Tempora<g ref="char:EOLhyphen"/>ry afflictions work for us Eternal Glory, according to that of the Prophet <hi>Iſaiah,</hi> chap. 61.7. <hi>For your ſhame you ſhall have double</hi> (a double portion of glory) <hi>and
+<pb n="43" facs="tcp:35251:26"/>for confuſion they ſhall rejoice in their por<g ref="char:EOLhyphen"/>tion, everlaſting joy ſhall be unto them.</hi> And may not all theſe conſiderations make us willing to bear afflictions, not only patiently, but alſo thankfully.</p>
+            <p>I know it is a very hard leſſon to take out. But we have both <hi>Precept</hi> for it, 1 Theſ. 5.18. <hi>In every thing give thanks.</hi> Be thankful even for affliction. And we have <hi>Preſident</hi> for it, Acts. 5.41. <hi>When the Apoſtles were not only threatned by the Rulers, but beaten for their preaching up the Lord Jeſus,</hi> the Text ſaith, <hi>They re<g ref="char:EOLhyphen"/>joiced that they were counted worthy to ſuf<g ref="char:EOLhyphen"/>fer ſhame for his name;</hi> and 'tis elegantly expreſſed in the Original, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, That they were honoured with diſhonour. And the Apoſtle could ſay, Rom 5.2, 3. <hi>We do not only rejoice in hope of the glory of God, but we glory al<g ref="char:EOLhyphen"/>ſo in tribulation.</hi> Had we but ſuch a faith as he had, we ſhould be able to do as he did.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Du∣ty. </seg>Third</label> The third Duty that this Doctrine preſſeth on us, is this, viz. <hi>To labour for a ſanctified improvement of every affliction;</hi> that we may be able to ſay
+<pb n="44" facs="tcp:35251:27"/>with the Pſalmiſt, <hi>Pſal.</hi> 48.8. <hi>As we have heard, ſo have me ſeen,</hi> this truth by experience. We have heard that af<g ref="char:EOLhyphen"/>flictions help to diſcover ſin, or prevent it, or purge it out, and bleſſed be God we have found and felt in our hearts this ſpiritual advantage by it.</p>
+            <p>We have heard, That affliction helps to <hi>try our graces</hi> whether they be true or counterfeit, and to exerciſe or bright<g ref="char:EOLhyphen"/>en our graces, that they may not be ruſty (for a ruſty key, though it be fit<g ref="char:EOLhyphen"/>ted for the lock, yet til it be brightned, it will not open it) and to improve or increaſe our graces (for the more they are exerciſed, the more they are increa<g ref="char:EOLhyphen"/>ſed.) Now as we have heard ſo have we ſeen this ſpiritual benefit alſo.</p>
+            <p>We have heard that affliction helps to <hi>fit us for ſervice,</hi> and to <hi>quicken</hi> us in it; and this we have ſeen alſo by experience that when we have been dull and drow<g ref="char:EOLhyphen"/>ſie and ſlow-pac'd in heavens way, af<g ref="char:EOLhyphen"/>fliction hath rouzed us out of our ſleepi<g ref="char:EOLhyphen"/>neſſe, and made us mend our pace in our heavenly journey. It was the ſpeech of famous Mr. <hi>Greenham,</hi> when his
+<pb n="45" facs="tcp:35251:27"/>friends about him were earneſtly beg<g ref="char:EOLhyphen"/>ging on his behalf, that God would mi<g ref="char:EOLhyphen"/>tigate his pain (which was acute and preſſing) No, no (ſaith he) Lord give me the <hi>good,</hi> the <hi>good</hi> of this affliction. If the Lord teach you and me this ſpiri<g ref="char:EOLhyphen"/>tual Trade of improving our afflictions <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſpiritual ſoul-profit and advantage, we ſhall find the <hi>merchandize of it is bet<g ref="char:EOLhyphen"/>ter then the merchandize of ſilver,</hi> and the <hi>gain thereof better then the gain of fine gold,</hi> as <hi>Solomon</hi> ſpeaks of wiſdom, Prov. 3.14.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>4</label> The fourth and laſt Uſe of this point is this:</p>
+            <p>It makes wonderfully for the encou<g ref="char:EOLhyphen"/>ragement of all Gods Children: It may bear up their ſpirits, and chear up their hearts in the midſt of the ſaddeſt ſuffer<g ref="char:EOLhyphen"/>ings and heavieſt preſſures that can lye upon them; for all theſe are making way for Eternal Glory, that will abun<g ref="char:EOLhyphen"/>dantly recompence all our ſuffering, and all our waiting; nay, I dare boldly ſay, One hours fruition or enjoyment of that glory which is laid up for the Saints in light, will preponder or out-weigh an
+<pb n="46" facs="tcp:35251:28"/>hundred yeers ſuffering: Therefore as our Saviour ſaid to his Diſciples, <hi>John</hi> 16.33. <hi>Theſe things have I ſpoken to you, that in me ye might have peace: in the world ye ſhall have tribulation, but he of good cheer, I have overcome the world.</hi> Obſerve here, Gods people at the ſame time when they have <hi>tribulation</hi> in the world, they may have <hi>peace</hi> in Chriſt; at the ſame time when there is a great ſhower ratling upon the tiles, there may be muſick, in the chamber; therefore ſaith our Saviour, Be of good cheer, be not daunted or diſmayed at thoſe ſuf<g ref="char:EOLhyphen"/>ferings that ye muſt undergo, for I have conquered them all, and ye ſhall be conquerors in me, and by me; So ſay I to you, <hi>Lift up thoſe hands that hang down, and thoſe feeble knees,</hi> Hebr. 12.12. <hi>Fear none of thoſe things which ye ſhall ſuffer:</hi> It is the counſel of our Saviour to the Church of <hi>Smyrna,</hi> and he gives a ſtrong cordial to ſupport her in the midſt of her fears and fainting fits, in the next words, <hi>Behold the Devil ſhall caſt ſome of you into priſon, that ye may may be tryed, and ye ſhall have tribula<g ref="char:EOLhyphen"/>tion
+<pb n="47" facs="tcp:35251:28"/>ten dayes:</hi> Obſerve here, how ma<g ref="char:EOLhyphen"/>ny Ingredients there are in this Cor<g ref="char:EOLhyphen"/>dial. 1. It is true, the <hi>Devil</hi> (<hi>h. e.</hi> by his Agents and Inſtruments, who do his drudgery) <hi>ſhall caſt ſome of you</hi> (not all of you, for ſome are not well able to ſuffer, and therefore the Lord Chriſt will ſpare them, for he is a tender-hearted carefull ſhepherd, that <hi>gathers the lambs in his arms, and carries them in his boſome, and gently leads thoſe that are with young,</hi> Iſai. 40.11.) 2. It is but a <hi>Priſon</hi> that he caſts ye into; if he were not reſtrained, he would caſt ye all into <hi>hell fire.</hi> 3. This impriſonment is, <hi>that ye may be tryed,</hi> (not that ye might be deſtroyed, or brought to exe<g ref="char:EOLhyphen"/>cution.) 4. <hi>Ye ſhall have tribulation ten days;</hi> if the Devil might have his will, it ſhould be for <hi>ten years</hi> together, nay, ye ſhould never come out of priſon while ye lived; but his power and rage are limited both for the meaſure and the continuance of them; <hi>therefore be faithfull unto death, and then I will give ye a crown of life.</hi> Oh what a heart-cheating Cordial may this be to every
+<pb n="48" facs="tcp:35251:29"/>poor drooping diſconſolate ſoul! God do's but caſt thee down for a while, that he may exalt thee for ever; he does but correct thee with a fatherly rod, that being <hi>chaſtened of the Lord, thou mayeſt not he condemned with the world,</hi> 1 Cor. 11.32. (and beleeve it (Sirs) it is far better to be a <hi>corrected child,</hi> then to be a <hi>cocker'd baſtard; if we want chaſtiſement whereof all Gods children are partakers, we are baſtards and not ſons,</hi> Hebr. 12.8. It is better to go bruiſed to heaven, then with eaſe and quietneſs to go to hell) he does but caſt thee into the <hi>furnace of affliction,</hi> to purge out thy droſſe, not to deſtroy thy ſoul; he loves thee in the fire, as well as when thou art out, and ſtands by thee all the while; The Lord ſet home this comfortable cordial upon thy heart, that it may ſtand thee in ſtead in the evill day. So much for the firſt Doctrine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doctr. </seg>2</label> The ſecond Doctrine is this, <hi>viz. The afflictions of this life are but light and eaſie; the glory of the life to come is a weighty and ſuperlative glory.</hi>
+            </p>
+            <p>There are two Branches in this Do<g ref="char:EOLhyphen"/>ctrine,
+<pb n="49" facs="tcp:35251:29"/>which I muſt diſtinctly open and confirm, <hi>Viz.</hi>
+            </p>
+            <p n="1">1. That the afflictions of this life are but light and eaſie.</p>
+            <p n="2">2. That the glory of the life to come, is a weighty and ſuperlative glory.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Branch. </seg>1</label> For the firſt of theſe, <hi>That our affli<g ref="char:EOLhyphen"/>ctions are light and eaſie:</hi> This (ye will ſay) ſeems very ſtrange and incredible; for it may be objected, <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> Do not we ſee Gods own children ſometimes groan<g ref="char:EOLhyphen"/>ing under ſuch heavy burdens, as are ready to break their backs, or ſink them down into the duſt? doth not <hi>David</hi> ſay, <hi>Pſal.</hi> 69.2. <hi>I ſink in deep mire, where there is no ſtanding, I am come into deep waters, where the floods overflow me;</hi> doth not <hi>Heman</hi> that godly wiſe man com<g ref="char:EOLhyphen"/>plain <hi>Pſal.</hi> 88.7.15. <hi>Thy wrath lies hard upon me, and thou haſt afflicted me with all thy waves; yea, I am</hi> ſo ſadly <hi>afflict<g ref="char:EOLhyphen"/>ed, that I am ready to die;</hi> and that which <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s yet ſadder, theſe afflictions have laſt<g ref="char:EOLhyphen"/>ed not a few days or years, but a long time, <hi>Even from my youth up</hi> till this ſay. And does not holy <hi>Paul,</hi> ſpeak<g ref="char:EOLhyphen"/>ing of the trouble which befell him in
+<pb n="50" facs="tcp:35251:30"/>
+               <hi>Aſia,</hi> ſay expreſly, 2 <hi>Cor.</hi> 1.8. <hi>That we were preſſed out of meaſure, above ſtrength, inſomuch that we deſpaired even of life?</hi> How then can the afflictions of the god<g ref="char:EOLhyphen"/>ly be ſaid to be light and eaſie?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To this I anſwer, The afflictions of the godly are not light and eaſie in <hi>them<g ref="char:EOLhyphen"/>ſelves,</hi> but lye heavy upon them, and make them ſometimes cry out in the anguiſh and bitterneſs of their ſpirits, as <hi>Job</hi> did, <hi>chap.</hi> 6.12. <hi>Is my ſtrength the ſtrength of ſtones, or is my fleſh of braſs?</hi> Am I made of ſo hard mettal, that I can endure any thing? <hi>Am I a ſea, or a whale, that thou ſetteſt a watch over me?</hi> ch. 7.12. <hi>How long wilt thou not depart from me, nor let me alone till I ſwallow down my ſpittle?</hi> ver. 19.</p>
+            <p>But in two reſpects they may be ſaid to be light and eaſie to be born.</p>
+            <p n="1">1. If ye conſider them comparative<g ref="char:EOLhyphen"/>ly, compared either with
+<list>
+                  <item>The <hi>torments of Hell</hi> which are pre<g ref="char:EOLhyphen"/>vented.</item>
+                  <item>Or the <hi>joyes of heaven</hi> which are prepared for them.</item>
+               </list>
+            </p>
+            <p>For the firſt of theſe, Compare the
+<pb n="51" facs="tcp:35251:30"/>afflictions of this life with the <hi>Torments of hell,</hi> and they are but a fleabiting in compariſon of that <hi>worm that dieth not,</hi> and <hi>that fire that ſhall never be quenched;</hi> Oh who is there living upon earth, that underſtands <hi>the power of Gods anger,</hi> or that dreadful indignation, the moun<g ref="char:EOLhyphen"/>tains and milſtones of wrath, that lie upon the damned in hell, and will lye for evermore? <hi>Pſal.</hi> 90.11. It was a de<g ref="char:EOLhyphen"/>vout Meditation of <hi>Auſtin, Domine hic ure, hic ſeca, modò in aeternum parcas;</hi> Lord cut me here on earth with the ſharpeſt knife of affliction, bruiſe me here, nay, burn me here, to that thou ſpare me hereafter, and keep me from ever<g ref="char:EOLhyphen"/>laſting fire.</p>
+            <p>For the ſecond, Compare the afflicti<g ref="char:EOLhyphen"/>ons of this life with the <hi>joyes of heaven,</hi> that are prepared for the godly, and then they are exceeding light and inconſide<g ref="char:EOLhyphen"/>rable; what is a drop of Vinegar put in<g ref="char:EOLhyphen"/>to a hogſhead of Wine? it is nothing, it is ſwallowed up, and not diſcerned. What is it for a Prince to travel in a rainie ſtormie day, when he is riding to take poſſeſſion of a Kingdom? He e<g ref="char:EOLhyphen"/>ſteems
+<pb n="52" facs="tcp:35251:31"/>ſteems the rain not worth regarding.</p>
+            <p>
+               <hi>Pericula non reſpicit Martyr, coronam reſpicit,</hi> ſaith <hi>Baſil.</hi> A Martyr looks not at the danger that is before him, but at the Crown of glory that is be<g ref="char:EOLhyphen"/>yond that danger.</p>
+            <p>If one of you ſhould have a Jewel of five hundred pound thrown at you, and in the throwing, it gives you a blow upon the hand, but you have the Jew<g ref="char:EOLhyphen"/>el for the blows ſake, you would eſteem the blow as nothing for the Jewels ſake. What one affliction, croſſe or calamity is there that can be named, which is able to poſze one ſmile of Gods face? And if a ſmile an earth be able to ſweeten the bittereſt cup, and to eaſe the heavi<g ref="char:EOLhyphen"/>eſt burden that can lie upon us, what will the full fruition of God in glory be? If a woman in travel (though ſhe have torturing pain for a while yet) <hi>as ſoon as ſhe is delivered of the child remem<g ref="char:EOLhyphen"/>bers the anguiſh no more, for joy that a man is born into the world,</hi> as our Savi<g ref="char:EOLhyphen"/>our tells us, <hi>John</hi> 16.21. How much more may that unconceivable joy and happineſs that is laid up in heaven, when
+<pb n="53" facs="tcp:35251:31"/>it is enjoyed but one day, nay but one hour, make the godly forget all their ſorrows and ſufferings which they en<g ref="char:EOLhyphen"/>dured here on earth for many yeers to<g ref="char:EOLhyphen"/>gether?</p>
+            <p n="2">2. Afflictions are light and eaſie, in re<g ref="char:EOLhyphen"/>gard of <hi>Gods gracious ſupportation</hi> that he affords his ſervants in bearing of them: Here the Pſalmiſt ſpeaking out of his own experience, <hi>Pſal.</hi> 94.17, 19. <hi>Unleſs the Lord had been my helper, my ſoul had almoſt dwelt in ſilence, When I ſaid, my foot ſlippeth, thy mercy o Lord held me up; In the multitude of my thoughts within me, thy comforts delight my ſoul.</hi> Gods ſupporting hand made a heavy burden eaſily born. And in<g ref="char:EOLhyphen"/>deed it is worthy our Obſervation, ☜ <label type="milestone">
+                  <seg type="milestoneunit">Obſ. </seg>
+               </label> When God <hi>does not ſupport</hi> a man in the day of tryal, the lighteſt affliction will be ſo heavy, that he ſhall ſink under it; ſee it in <hi>Ahitophel, when he ſaw that his coun<g ref="char:EOLhyphen"/>ſel was not followed,</hi> (a man would have thought, this had been a very ſmall tryal for ſo wiſe a man, and ſo great a Poli<g ref="char:EOLhyphen"/>tician to grapple with: but God leaving him to himſelf, he ſinks under it) <hi>he
+<pb n="54" facs="tcp:35251:32"/>goes home to his houſe, and hanged him<g ref="char:EOLhyphen"/>ſelf,</hi> 2 Sam. 17.23. On the contrary, when God <hi>does ſupport</hi> a man in a <hi>dark and cloudy day</hi> (as the Prophet calls it, <hi>Ezek.</hi> 36.12.) the heavieſt affliction that can befall him ſhall be ſo equally poized, that he ſhall be able to ſtand under it; ſee an inſtance in <hi>David</hi> 1 Sam. 30.1, 6. His City <hi>Ziklag</hi> is burnt with fire; his <hi>two wives</hi> Ahinoam <hi>and</hi> Abigail <hi>were ta<g ref="char:EOLhyphen"/>ken captive, David</hi> and the people that were with him wept, <hi>till they could weep no longer,</hi> and (that which was yet worſt of all) the people ſpake of <hi>ſtoning him,</hi> for very grief and anger, that their ſons and daughters were carried captive; here was a ſore affliction indeed, ſuch a dole<g ref="char:EOLhyphen"/>ful diſtreſs, as might have broken a man to pieces; but God ſupporting <hi>David,</hi> he ſtands under it without fainting; <hi>He encouraged himſelf in the Lord his God.</hi>
+            </p>
+            <p>Thus I have made good the firſt Branch of the Doctrine, That the af<g ref="char:EOLhyphen"/>flictions of the Godly are light and eaſie.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Branch. </seg>2</label> The ſecond Branch is this, That the glory of the life to come is a weighty
+<pb n="55" facs="tcp:35251:32"/>and ſuperlative glory. It is called here <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>A weight of glory,</hi> allu<g ref="char:EOLhyphen"/>ding to the Hebrew word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which ſignifies both weight and glory. It is the weight of gold that adds much to the value of it. The more weighty a Crown is, the more it is worth in our eſteem.</p>
+            <p>Nay yet more, This glory is not on<g ref="char:EOLhyphen"/>ly a weighty glory, but an <hi>hyperbolical tranſcendent</hi> glory, far ſurpaſſing the capacity and comprehenſion of ſuch poor creatures as we are; for ſuch is the excellency, beauty and ſweetneſs of it, that (as one ſaith excellently<note n="*" place="margin">
+                  <hi>Bolton</hi> of the four laſt things.</note>) <hi>No mor<g ref="char:EOLhyphen"/>tal man can deſcribe it, no created under<g ref="char:EOLhyphen"/>ſtanding can conceive it, or comprehend it: Eye hath not ſeen, nor ear heard, nei<g ref="char:EOLhyphen"/>ther have entred into the heart of man the things which God hath prepared for them that love him;</hi> 1 Cor. 2.9. The eye has ſeene admirable things, <hi>Solomons</hi> Temple and the glory of it, which was ſo great, That <hi>for the Temples ſake at Jeruſalem even Kings did bring preſents unto God,</hi> Pſal. 68.29. and <hi>Solomons</hi> ſtately houſe, which was <hi>thirteen years,</hi>
+               <pb n="56" facs="tcp:35251:33"/>in building, 1 <hi>Kin.</hi> 7.1. and all the won<g ref="char:EOLhyphen"/>ders of the world.</p>
+            <p>The <hi>ear has heard</hi> moſt delicious ex<g ref="char:EOLhyphen"/>quiſite heart-raviſhing muſick; the <hi>heart of man can conceive</hi> yet much more then either eye hath ſeen, or ear hath heard, for in conceit it can turn all the ſtones upon earth into pearls, all the ſand upon the ſea-ſhore into Silver, and all the wa<g ref="char:EOLhyphen"/>ter of the Sea, into liquid gold, yet the height and happineſs of heavenly glory do's far ſurpaſs all this, eſpecially if ye conſider theſe three things moſt wor<g ref="char:EOLhyphen"/>thy of our meditation.</p>
+            <list>
+               <item>1. The <hi>place</hi> where this glory is pre<g ref="char:EOLhyphen"/>pared.</item>
+               <item>2. The <hi>Properties</hi> wherewith it is a<g ref="char:EOLhyphen"/>dorned.</item>
+               <item>3. The <hi>Priviledges</hi> wherewith it is attended.</item>
+            </list>
+            <p>For the firſt, The place where it is prepared, is <hi>Heaven,</hi> The <hi>new Jeruſalem, The City of the great King;</hi> this muſt needs be a glorious place, it ye conſider theſe particulars.</p>
+            <p n="1">1. <hi>God himſelf is the maker and builder of it,</hi> Hebr. 11.10. The moſt goodly Pa<g ref="char:EOLhyphen"/>laces
+<pb n="57" facs="tcp:35251:33"/>that ever were built on earth are but the work of <hi>mens</hi> hands, but this is a houſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>made without hands,</hi> 2 <hi>Cor.</hi> 5.1. God himſelf made it without mans help. 2. God built this houſe <hi>for himſelf,</hi> for the honour of his Majeſty, to be the place of his reſidence, where he will keep his court, as if he ſhould ſay, <hi>Here will I dwell, for I have a delight therein.</hi>
+            </p>
+            <p n="3">3. In building this houſe, <hi>he ſhewed all his skill,</hi> it was his Maſter-piece, there<g ref="char:EOLhyphen"/>fore there are two words uſed in the Text, <hi>Heb,</hi> 11.10. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The former of them ſignifies an Artifi<g ref="char:EOLhyphen"/>cer, a curious workman or contriver; <hi>God</hi> did not only build this houſe, but he ſhew'd extraordinary <hi>workmanſhip</hi> in contriving it, the frame or fabrick of this earthly globe, ye ſee it is a goodly piece full of beauty; but alas! this is but a ſtage or ſcaffold ſet up for a while, <hi>viz.</hi> for 5 or 6 thouſand years; (which is but a mo<g ref="char:EOLhyphen"/>ment in compariſon of eternity) but this heavenly houſe is to laſt for ever. Now if the ſcaffold, be ſo glorious, how infi<g ref="char:EOLhyphen"/>nitely beautiful will the houſe it ſelf be?</p>
+            <pb n="58" facs="tcp:35251:34"/>
+            <p n="4">4. It muſt needs be a glorious place, becauſe of the <hi>Glorious Company</hi> there reſiding, viz. The great God of hea<g ref="char:EOLhyphen"/>ven and earth, the Lord Chriſt with a glorified body, and all the holy Angels and ſpirits of juſt men made perfect, con<g ref="char:EOLhyphen"/>tinually triumphing in the praiſes of the Holy One, rejoycing in him, and he in them.</p>
+            <p>
+               <label>For the Se<g ref="char:EOLhyphen"/>cond</label> The Properties wherewith this glory is adorned; I will name but theſe three.</p>
+            <p n="1">1 It is a <hi>pure</hi> Glory without the leaſt mixture of miſery or infelicity. There the Saints enjoy light, without dark<g ref="char:EOLhyphen"/>neſs, mirth without mourning, health without ſickneſs, wealth without wo, beauty without blemiſh, and honour without envy. In this life, all our com<g ref="char:EOLhyphen"/>forts have ſome mixture of bitterneſs in them, but there are unmixed joyes and delights without the leaſt worm<g ref="char:EOLhyphen"/>wood or gall mingled with them.</p>
+            <p n="2">2 It is a <hi>perfect</hi> glory, nothing ſhall be wanting that the ſoul can deſire, <hi>Ful<g ref="char:EOLhyphen"/>neſſe of joy,</hi> Pſal. 16.11 and a <hi>full Re<g ref="char:EOLhyphen"/>ward,</hi> 2 <hi>Joh.</hi> 8.</p>
+            <pb n="59" facs="tcp:35251:34"/>
+            <p n="3">3 It is a <hi>ſatisfying</hi> Glory. <hi>The Saints ſhall be abundantly ſatisfied with the fat<g ref="char:EOLhyphen"/>neſſe of his houſe, and he will make them drink of the River of his Pleaſures,</hi> Pſalm 36.8. All the pleaſures and treaſures that this world can afford us, will not give ſatisfaction to an immortal Soul; They do not feed <hi>Eſurientem animam,</hi> but <hi>eſuriem animae;</hi> The hungry ſoul is not filled, but the hunger of the ſoul is increaſed by them. But this glory will ſo fully delight, beautifie and ſa<g ref="char:EOLhyphen"/>tisfie the ſoul, that it can deſire no more.</p>
+            <p>
+               <label>For the third.</label> The Privileges wherewith this glory is attended.</p>
+            <p>They are of two ſorts, ſome are
+<list>
+                  <item>Privative.</item>
+                  <item>Poſitive.</item>
+               </list>
+            </p>
+            <p n="1">1 Privative, in the <hi>freedom from all evil.</hi>
+            </p>
+            <p>For example. The ſoul is here ſub<g ref="char:EOLhyphen"/>ject to temptations and corruptions, de<g ref="char:EOLhyphen"/>ſertions from God, and provocations from wicked men, <hi>Pſal.</hi> 120.5. Wo is me that I ſojourn in <hi>Meſech, &amp;c.</hi> Theſe are ſo exceeding grievous to a gracious
+<pb n="60" facs="tcp:35251:35"/>heart, that they make a man cry out with holy <hi>Job, My ſoul chuſeth ſtrangling, and death rather than life,</hi> Job 7.15. But when the Soul comes to enjoy that glo<g ref="char:EOLhyphen"/>ry, all theſe ſhall be removed. <hi>All tears ſhall be wiped away from their eyes, and there ſhall be no more death,</hi> nor <hi>ſorrow,</hi> nor <hi>crying,</hi> neither <hi>ſhall there be any more pain.</hi> Rev. 21.4.</p>
+            <p n="2">2. Poſitive Priviledges in the <hi>fruition of all good things,</hi> that can be conceived or deſired.</p>
+            <p>For the Saints ſhall have an Imme<g ref="char:EOLhyphen"/>diate Communion with God theſe three wayes, <hi>viz.</hi> By
+<list>
+                  <item>Seeing God,</item>
+                  <item>Enjoying God,</item>
+                  <item>Being made like to God.</item>
+               </list>
+            </p>
+            <p n="1">1. The <hi>Saints ſhall ſee him as he is,</hi> 1 John 3.2.</p>
+            <p>This is that which is called the Bea<g ref="char:EOLhyphen"/>tifical, or bleſſed-making viſion, <hi>for in his preſence,</hi> (<hi>Hebr.</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in his faces) <hi>is fulneſs of joy;</hi> If a man had all the pains of hell upon him, this viſion were able to make a man rejoyce; becauſe <hi>totam amaritudinem Gehennae abſorberet,</hi> ſaith <hi>Chryſoſt.</hi> It would ſwallow up the bitterneſs of hell it ſelf.</p>
+            <pb n="61" facs="tcp:35251:35"/>
+            <p n="2">2. The Saints <hi>ſhall enjoy him as their</hi> Portion: He ſhall be All in All, that is (as one ſweetly expreſſeth it<g ref="char:punc">▪</g>) He ſhall be joy to our Souls, Life to our Bodies, Beauty to our eyes, Muſick to our ears, Perfume to our noſtrils, Honey to our mouthes, and Contentment to our hearts; for what can be wanting to him that has that God for his Portion, who <hi>has</hi> and <hi>does</hi> all, and <hi>fills</hi> all things in heaven and earth.</p>
+            <p n="3">3. The Saints ſhall be made like to God, and <hi>conformed to the Image of his Son Jeſus Chriſt,</hi> Rom. 8.29.</p>
+            <p n="1">1. Like him in Soul, by perfection of Grace, for they ſhall have perfect know<g ref="char:EOLhyphen"/>ledg, perfect holineſs and righteouſneſs, as much as Creatures can be capable to receive.</p>
+            <p n="2">2. Like him in Body; <hi>For he ſhall change our vile Bodies, that they may be fa<g ref="char:EOLhyphen"/>ſhioned like unto his Glorious Body,</hi> Phil. 3.21. Then ſhall our Bodies <hi>be Spiritual,</hi> 1 Cor. 15.44. active, lively and nimble as Spirits; And they ſhall be <hi>Impaſſible,</hi> ſuch as are not capable of ſuffering, and <hi>Immortal</hi> ſuch as can never dye; In brief,
+<pb n="62" facs="tcp:35251:36"/>they ſhall have ſuch an admirable beau<g ref="char:EOLhyphen"/>ty and luſtre put upon them, <hi>that they ſhall ſhine forth as the Sun in the King<g ref="char:EOLhyphen"/>dome of their Father,</hi> Matth. 13.43.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> For the application of this Doctrine, If the glory of the life to come, be ſo weighty and tranſcendent, then we learn this undoubted truth, That <hi>the ſervice of God is no unprofitable ſervice.</hi> It was a lying ſlander that thoſe Blaſphemers caſt upon the ways of God when they ſaid <hi>Mal.</hi> 3.14. <hi>It is in vain to ſerve God, and what profit is it that we have kept his Ordinances, and that we have walked mournfully before the Lord of Hoſts;</hi> Juſt like ſome at this day, What good is got by faſting and praying, and that preciſe walking, that Preachers preſſe us to from day to day? O had theſe men e<g ref="char:EOLhyphen"/>ver ſeen but one glimpſe of that beau<g ref="char:EOLhyphen"/>ty that is in <hi>grace,</hi> which is <hi>glory begun;</hi> or one taſt of that heavenly <hi>glory,</hi> which is <hi>grace ferfected,</hi> then they would ac<g ref="char:EOLhyphen"/>knowledg, we can ſerve no ſuch maſter as God is, either for work or wages; as he is the beſt maſter, ſo is he the beſt pay-maſter: To thee therefore that
+<pb n="63" facs="tcp:35251:36"/>walkeſt after the courſe of this preſent evill world, <hi>and according to the will of the Prince of the air, the fpirit that worketh</hi> mightily <hi>in the children of diſ<g ref="char:EOLhyphen"/>obedience,</hi> Eph. 2.2. Let me propound that Queſtion, which <hi>Saul</hi> did to his ſervants that ſtood about him, 1 <hi>Sam.</hi> 22.7. <hi>Will the ſon of</hi> Jeſſe <hi>give every one of you fields and vineyards, and make you all captains of thouſands, and cap<g ref="char:EOLhyphen"/>tains of hundreds?</hi> So ſay I to you, Can ſin, or Satan, or the world, give you ſuch wages as this? ſuch tranſcendent glory as this, in ſeeing God, enjoying God, and being made like to God? No, no, they will pay you with ſorrow and vexation, with ſhame and confuſion, and condemnation to all eternity.</p>
+            <p>Conſider ſeriouſly of it before it be too late, for the time will come when you will <hi>befool</hi> your ſelves and ſay, <hi rend="margQuotes">
+                  <hi>O what ſots and ſenſeleſs wretches were we that willingly deprived our ſelves of that weighty and tranſcendent glory, for a few ſtinking luſts, and the pleaſures of ſin for a ſeaſon!</hi> We thought the ſer<g ref="char:EOLhyphen"/>vice of God unprofitable and burden<g ref="char:EOLhyphen"/>ſome
+<pb n="64" facs="tcp:35251:37"/>ſaying, <hi>What A wearineſs is it Mal.</hi> 1.13. But now, Oh that we had been a thouſand years faſting and praying, mourning and weeping;</hi> Oh that we had been ten thouſand years excerciſing the ſtricteſt duties of Religi<g ref="char:EOLhyphen"/>on ſelf denial, renewing repentance, mortification, contempt of the world; and the like) rather then have loſt this <hi>weight of glory;</hi> for it is an invaluable, unconceiveable, and irrecoverable loſs; the tears of Hell are not ſufficient to be<g ref="char:EOLhyphen"/>wail the loſs of Heaven: <hi>Thus will it be,</hi> I ſay it again, thus <hi>will it he with all</hi> you, that <hi>neglect ſo great ſalvation,</hi> and account Gods ſervice an unprofitable ſervice: The Lord of his infinite mercy awaken you to Repentance.</p>
+            <p>So much for the ſecond Doctrine.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>3</label> The third Doctrine is this, <hi>viz. That the afflictions of this life are but for a moment, the glory of the life to come is an everlaſting glory.</hi>
+            </p>
+            <p>That the Afflictions of this life are but for a moment appears in this, Be<g ref="char:EOLhyphen"/>cauſe our life, if it were ten times longer then it is, in compariſon of Eternity, is
+<pb n="65" facs="tcp:35251:37"/>but a moment of time, <hi>Mine age is nothing before thee,</hi> Pſal. 39.5. It is but as a drop of water in compariſon of all the water in the Ocean.</p>
+            <p>That the glory of the life to come is an <hi>everlaſting glory,</hi> the Scripture brings in abundant Teſtimony; the <hi>Righteous ſhall enter into everlaſting life,</hi> ſaith our Saviour, <hi>Matth.</hi> 25.46. And heaven is called <hi>a Kingdom that cannot be ſhaken, Hebr.</hi> 12.28. Earthly Kingdoms are quickly ſhaken to pieces; the great King of Kings and Lord of Lords, can as eaſily toſſe Kingdomes, as we can toſs a Tennis ball; where are the four great Monarchies of the world, the <hi>Babylonian, Perſian, Gre<g ref="char:EOLhyphen"/>cian,</hi> and <hi>Roman?</hi> They devoured one another, and death devoured them all, but this heavenly Kingdom cah never be moved, neither is it capable of any change, corruption, or alteration: Doth not the Apoſtle call it an <hi>inheritance in<g ref="char:EOLhyphen"/>corruptible and undeſiled, and ſuck a one as fadeth not away?</hi> 1 Pet. 1.4. Doth he not call it a <hi>crown of glory that ne<g ref="char:EOLhyphen"/>ver withers of waxethold,</hi> 1 Pet. 5.4.</p>
+            <pb n="66" facs="tcp:35251:38"/>
+            <p>O this ETERNITY, ETERNITY, E<g ref="char:EOLhyphen"/>TERNITY, It is ſuch a great depth or bottomleſs Ocean that it ſwallows up all our thoughts; it is that which makes every mans condition either infinitely happy, or incomprehenſibly miſerable<g ref="char:punc">▪</g> In reference to the wicked ſuch as have no intereſt in Chriſt, no work of grace upon their hearts, no fear to offend God, nor care to pleaſe him; It may ſmite their hearts with that fear and conſter<g ref="char:EOLhyphen"/>nation, that gaſtly horror and doleful confuſion, that if I had the tongue of men and angels, I were not able to ex<g ref="char:EOLhyphen"/>preſs it ſuppoſe a little Bird ſhould e<g ref="char:EOLhyphen"/>very thouſandth year fetch a drop of water out of the Ocean, how many mil<g ref="char:EOLhyphen"/>lions of years would it be before this bird could empty the Ocean? Surely, this is but a picture of eternity; ſo long, and infinitely longer, ſhall thoſe damned wretches ſuffer the torments of Hell fire, without end or eaſe, without mitigation or intermiſſion.</p>
+            <p>In reference to the godly, this Eterni<g ref="char:EOLhyphen"/>ty may raviſh their hearts with admi<g ref="char:EOLhyphen"/>ration, and holy exaltation or rejoycing
+<pb n="67" facs="tcp:35251:38"/>in Spirit, that the glory prepared for them is ſuch as ſhall never have end: After a million or thouſand thouſand years expired, their glory is but begun; and when ten thouſand millions are paſt, their glory is not hear to an end. That golden ſpeech of <hi>Bernard, Momentaneum eſt quod delectat, aternum quod cruciat;</hi> The pleaſures of ſin are but for a <hi>mo<g ref="char:EOLhyphen"/>ment,</hi> the puniſhment of ſin is <hi>everlaſt<g ref="char:EOLhyphen"/>ing,</hi> may by way of Inverſion, be fitly applyed to all true beleevers; the ſuffer<g ref="char:EOLhyphen"/>ings they meet with are but for a mo<g ref="char:EOLhyphen"/>ment; the pleaſures at the right hand of God, which they expect, are for ever<g ref="char:EOLhyphen"/>more; <hi>at thy right hand</hi> (ſaith <hi>David, Pſal.</hi> 16.11.) <hi>are pleaſures for evermore.</hi>
+            </p>
+            <p>In brief, it is the higheſt pitch of the miſery of the damned in Hell, that their puniſhment is everlaſting, and yet their torments are ſo great, that every mo<g ref="char:EOLhyphen"/>ment ſeems an eternity: On the con<g ref="char:EOLhyphen"/>trary, It is the higheſt pitch of the Saints happineſs in heaven, that their joyes are everlaſting, and yet theſe joyes are ſo freſh, that their eternity ſeems but a moment.</p>
+            <pb n="68" facs="tcp:35251:39"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> For the Application of this Point. There are four duties of infinite con<g ref="char:EOLhyphen"/>cernment, that I would preſſe upon you in reference to this eternal glory; O that I could prevail with you to put them in practiſe.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Duty. </seg>1</label> Firſt, <hi>Give all diligence to clear your title to this eternal glory,</hi> that you may know it is prepared for <hi>you,</hi> I ſay for <hi>you.</hi>
+            </p>
+            <p>
+               <hi>Queſt.</hi> But how may we clear our ti<g ref="char:EOLhyphen"/>tle to this Inheritance?</p>
+            <p>
+               <hi>Anſ.</hi> Ye muſt labour to get evidences of your election, <hi>make your calling and election ſure,</hi> ſaith the Apoſtle, 2 <hi>Pet.</hi> 1.10. that is, make your Election ſure by your calling; prove one, and prove both, if ye be called with an internal, as well as an external vocation, ye may be confi<g ref="char:EOLhyphen"/>dent ye are elected: Therefore get evi<g ref="char:EOLhyphen"/>dences of your effectual vocation, by <hi>re<g ref="char:EOLhyphen"/>turning an Eccho</hi> to Gods call, that when he ſaith, <hi>Seek ye my face,</hi> if thy heart can anſwer, <hi>thy face Lord will I ſeek,</hi> Pſal. 27.8. When Chriſt ſaith, <hi>Come to me,</hi> poor dejected ſinner, thou that art <hi>weary</hi> of the work of ſin, and <hi>heavy laden,</hi> with
+<pb n="69" facs="tcp:35251:39"/>the weight of ſin, <hi>Come to me, and I will give thee reſt,</hi> Mat. 11.28. If thy heart can anſwer, Lord I would creep to thee on hands and knees; when the ſpirit of God whiſpers in a voice behind thee, ſaying, <hi>This is the way, walk in it,</hi> Iſai. 30.21. If thy heart can return a yeelding anſwer; Lord, if it be the way, (though it be a narrow way and full of difficulty, yet) I will walk in it; this is an evidence of thy effectual calling. So likewiſe, Get Evidences of your Adoption, that ye are the children of God, becauſe ye are like your father; and get eviden<g ref="char:EOLhyphen"/>ces of your <hi>juſtification</hi> and <hi>ſanctifica<g ref="char:EOLhyphen"/>tion</hi> by feeling the Lord Chriſt coming neer your hearts, both by blood and wa<g ref="char:EOLhyphen"/>ter, <hi>pacifying</hi> your Conſciences, and <hi>purifying</hi> your hearts and lives; this is the way to clear your Title to this everlaſting Inheritance.</p>
+            <p>In brief, There are two things will exceeding much conduce to the, clear<g ref="char:EOLhyphen"/>ing of your Title;
+<list>
+                  <item>
+                     <hi>Viz.</hi> 1. The Adding to your Graces.</item>
+                  <item>
+                     <hi>Viz.</hi> 2. The Acting of your Graces.</item>
+               </list>
+            </p>
+            <pb n="70" facs="tcp:35251:40"/>
+            <p>For the former, Hearken to the coun<g ref="char:EOLhyphen"/>ſel of the Holy Ghoſt, 2 <hi>Pet.</hi> 1.5, 7. <hi>Give all diligence to adde to your faith vertue</hi> (that is, a well compoſed life, ſaith Judicious <hi>Calvin</hi>) and to <hi>vertue know<g ref="char:EOLhyphen"/>ledge, and to knowledge, temperance, and to temperance patience, and to patience Godlineſs, and to Godlineſs brotherly kindneſs, and to brotherly kindneſs Cha<g ref="char:EOLhyphen"/>rity;</hi> This adding to your Graces, is a <hi>Laying up in ſtore for your ſelves a good foundation for the time to come, that you may lay hold on Enternal Life,</hi> as St. <hi>Paul</hi> expreſſeth it, 1 Tim. 6.19. That as wicked men are ſaid to <hi>treaſure up wrath againſt the day of wrath</hi> Rom 2.5. So ye (on the contrary) by theſe Addi<g ref="char:EOLhyphen"/>tionals, will be treaſuring up grace a<g ref="char:EOLhyphen"/>gainſt the day of glory.</p>
+            <p>For the latter, Be ſtill acting of your Graces, <hi>and exerciſing of your ſelves to godlineſs:</hi> 1 Tim. 4.7.</p>
+            <p>For example, 1. Let Faith be in exer<g ref="char:EOLhyphen"/>ciſe, ſtill feeding upon the Promiſes, and making vigorous application of them to your own Souls: If the Promiſes feed your faith, your faith will feed your Aſ<g ref="char:EOLhyphen"/>ſurance,
+<pb n="71" facs="tcp:35251:40"/>and carry you with comfort and confidence to your journeys end.</p>
+            <p n="2">2. Let Repentance be in exerciſe, by re<g ref="char:EOLhyphen"/>newing that godly ſorrow which comes from God, and leads the ſoul unto God, looks on God offended, and ends in God reconciled. Holy <hi>Job,</hi> though he had a ſtrong faith, as appears by that much admired ſpeech of his Job. 13.15. <hi>Though he ſlay me, yet will I put my truſt in him:</hi> yet in the ſame verſe, ye may ſee, he was frequent in renewing his re<g ref="char:EOLhyphen"/>pentance: I will (ſaith he) <hi>reprove my own wayes before him</hi> (ſo ſome read the phraſe, and the <hi>Hebr.</hi> word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> will well bear it) <hi>q. d.</hi> I will be ſo far from juſtifying my ſelf, that I will diſallow mine own wayes, and diſavow my own righteouſneſs; yea <hi>repent</hi> daily, and <hi>ab<g ref="char:EOLhyphen"/>hor my ſelf in duſt and aſhes,</hi> Job. 42.6.</p>
+            <p n="3">3. Let Love be in exerciſe; Love the Lord Jeſus dearly and ſincerely: <hi>Be ſick of Love towards ſo ſweet a Saviour,</hi> as the Spouſe was, <hi>Cant.</hi> 2.5. Love no<g ref="char:EOLhyphen"/>thing much, but onely him whom you cannot love too much; And if you love him, ſee what he himſelf ſaith in that
+<pb n="72" facs="tcp:35251:41"/>comfortable Scripture, <hi>John</hi> 14.21. <hi>He that loveth me, ſhall be loved of my Father, and I will love him, and will manifeſt my ſelf to him.</hi> Now if Chriſt manifeſt himſelf to thy Soul, then certainly thy Title to heaven is cleared.</p>
+            <p n="4">4. Let fear be in exerciſe; <hi>Happy is the man that feareth always,</hi> Prov. 28.14. and the more ye walk in the <hi>fear of the Lord,</hi> the more ye walk in the <hi>comforts of the Holy Ghoſt,</hi> Acts 9.31. This is the firſt Duty.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Duty. </seg>The ſecond</label> The ſecond is this, Be more <hi>eager and earneſt,</hi> inſtant and conſtant in the purſuit of this Eternal Glory, than ever ye have been to this day,</p>
+            <p>Oh that ye and I could go up to the top of <hi>Mount Nebo</hi> as <hi>Moſes</hi> did, <hi>Deut.</hi> 32.49. and view the pleaſant Land afar off, and taſt ſome of the Grapes of <hi>Canaan</hi> by ſerious Meditation.</p>
+            <p>Oh that we could ſeriouſly conſider.
+<list>
+                  <item>1. <hi>From what we are Redeemed.</hi>
+                  </item>
+                  <item>2. <hi>To what we are appointed.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Redeemed from wrath, appointed to me<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cy; Redeemed from the pit ot hell, and appointed to the glory of heaven;
+<pb n="73" facs="tcp:35251:41"/>Redeemed from thoſe infernal flames, and everlaſting burnings, but appointed to thoſe everlaſting joyes, which no heart can conceive, nor tongue expreſs.</p>
+            <p>Were theſe things ſoundly digeſted and ſeriouſly conſidered, they would awake our drowſie ſpirits, and ſet the wheels of the ſoul a going, that we ſhould not onely walk in the way that leads to life, but we ſhould cheer<g ref="char:EOLhyphen"/>fully <hi>run the race that is ſet before us:</hi> Heb. 12.1.</p>
+            <p>The truth is, we might do a great deal more in the purſuit of our glorious hopes than we do, if we did but put forth our ſtrength to do what we are able; and we might put forth our ſtrength more than we do, if we were not ſick of a ſpiritual Lethargy; and we are ſick of a ſpiritual Lethargy, becauſe we do not prize thoſe glorious hopes that are ſet before us according to the worth of them.</p>
+            <p>In Gods fear therefore, let us hearken to the Counſel of the Holy Ghoſt: Heb. 6.12. <hi>Be not ſlothfull but follow<g ref="char:EOLhyphen"/>ers of them who through faith and pati<g ref="char:EOLhyphen"/>ence
+<pb n="74" facs="tcp:35251:42"/>inherit the promſes.</hi> This is the ſecond Duty.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Duty. </seg>The third</label> The third is this; Let us <hi>call off</hi> our affections from the world, the pomp and glory and vanity of it, that they may be ſet upon that Eternal Glory, which is prepared for the Saints in light</p>
+            <p>To you that are called with a holy calling, and have had a taſt of that ever<g ref="char:EOLhyphen"/>laſting Conſolation, and good hope through Grace, God ſeems to ſpeak in that language wherein <hi>Joſeph</hi> ſpake to his Brethren, <hi>Gen.</hi> 45.20. <hi>Alſo regard not your Stuff, for the good of all the Land of</hi> Aegypt <hi>is yours:</hi> So faith God to you, ſet not your hearts on traſh and trifles; there is a Crown of eternal glory ſet before you: Is it fit for Kings Children to be raking in dunghills? This duty of weanedneſs from the world is ſeaſonable at all times, but moſt ſuitable to the times whereinto God has caſt us; for now God ſeems to ſay to us as he did to <hi>Baruch,</hi> Jer. 45.4<g ref="char:punc">▪</g> 5. <hi>Behold that which I have built will I break down, and that which I have planted, I will pluck up, even this whole Land: And ſeekeſt thou
+<pb n="75" facs="tcp:35251:42"/>great things for thy ſelf? Seek them not;</hi> Oh that we had ſuch a ſpirit as <hi>Moſes</hi> had, <hi>he refuſed to be called the ſon of Pharoah's daughter</hi> (he trampled upon all the honours and pleaſures of Egypt) <hi>Becauſe, he had an eye to the Recompence of Reward,</hi> Heb. 11.24, 26. It is Storied of <hi>Alexander,</hi> that when he heard of the riches of the Indies, he gave away all his preſent Poſſeſſions that he had in <hi>Macedon,</hi> and being asked why he did ſo? He anſwered, I hope and look for far greater things than theſe: Oh that we could imitate this Heroick Reſolu<g ref="char:EOLhyphen"/>tion, To contemn our preſent enjoy<g ref="char:EOLhyphen"/>ments in compariſon of our future hopes. This is the third Duty.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Duty. </seg>The fourth</label> The fourth and laſt is this, Let us <hi>frame our ſelves to a Heavenly Converſa<g ref="char:EOLhyphen"/>tion:</hi> Though our commoration or a<g ref="char:EOLhyphen"/>bode be upon earth, let our Converſa<g ref="char:EOLhyphen"/>tion be in heaven <hi>Phil.</hi> 3.20. <hi>For hereby we ſhall be ſitting our ſelves for that Glory that ſhall be revealed.</hi> If one of you were to have an Inheritance in <hi>Spayn,</hi> you would learn the Spaniſh tongue, and the Spaniſh faſhion, you would frame
+<pb n="76" facs="tcp:35251:43"/>your ſelves to the cuſtom of that Coun<g ref="char:EOLhyphen"/>try or Kingdom, where you were to ſpend your dayes: Why ſurely, ye look for an Inheritance in Heaven among the Angels, yea to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Equal to the Angels,</hi> Luke 20.36. Why do you not frame your ſelves to an <hi>Angelical</hi> Converſation? You look to be like them in <hi>dignity,</hi> ſtrive to be like them in <hi>duty;</hi> To do your Fathers Will on earth, as the Angels do it in heaven. To this end, Let us every day take a turn or two with Chriſt on <hi>Mount Tabor,</hi> take a proſpect of heaven, and turn every Solemnity into a ſchool of Divi<g ref="char:EOLhyphen"/>nity; Let us ſay as <hi>Fulgentius</hi> did when he ſaw the Nobitity of <hi>Rome</hi> ſit moun<g ref="char:EOLhyphen"/>ted in their bravery, <hi>Si talis eſt Roma terreſtris qualis eſt Roma caeleſtis?</hi> If <hi>Rome</hi> be ſuch a glorious place, what is Heaven? If the Muſick on earth be ſo delightfull, how unconceivably ſweet and melodious will the Muſick of hea<g ref="char:EOLhyphen"/>ven be? Thus a Sanctified fancy may make every creature a ladder to heaven.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe </seg>2</label> To cloſe up al with a word of Conſola<g ref="char:EOLhyphen"/>tion.</p>
+            <pb n="77" facs="tcp:35251:43"/>
+            <p>This Doctrine may be as an Alaba<g ref="char:EOLhyphen"/>ſter box of precious oyntment, to re<g ref="char:EOLhyphen"/>freſh and revive the ſpirits of all true Be<g ref="char:EOLhyphen"/>lievers, all the Saints and Servants of Chriſt, in the midſt of all the troubles and trials, ſorrows and ſufferings that can befal them; There is a Crown of Eternal Glory prepared for you, which may make your hearts dance for joy; <hi>yet a little while, and he that ſhall come will come, and will not tarry,</hi> and <hi>when he comes he brings his Reward with him,</hi> Rev. 22.12. Then ſhall ye hear him ſpeaking comfortably to you; he will ſpeak to your hearts and ſay, <hi>Come ye bleſſed of my Father, receive the King<g ref="char:EOLhyphen"/>dom prepared for you from the foundation of the world, Enter ye into the joy of your Lord and Maſter,</hi> Mat. 25<g ref="char:punc">▪</g> 20. <hi>q. d.</hi> This joy cannot enter into you, becauſe of your ſtraitneſs, but ye may enter into it, becauſe of its fullneſs; The Sea cannot enter into a Hogſhead, becauſe the Veſ<g ref="char:EOLhyphen"/>ſel cannot contain it; But the Hogſhead may enter into the Sea, becauſe the Sea can fill it. To conclude,</p>
+            <p>There are 4. principal Names, where<g ref="char:EOLhyphen"/>by
+<pb n="78" facs="tcp:35251:44"/>the Holy Ghoſt expreſſeth the feli<g ref="char:EOLhyphen"/>city of the Saints in heaven:
+<list>
+                  <item>1. It is called a <hi>Life,</hi> and ſuch a Life as is Eternal.</item>
+                  <item>2. It is called a <hi>Glory,</hi> and ſuch a Glory as is a Crown.</item>
+                  <item>3. It is called a <hi>Kingdom,</hi> and ſuch a Kingdom as is Immutable and Unmove<g ref="char:EOLhyphen"/>able.</item>
+                  <item>4. It is called an <hi>Inheritance,</hi> and ſuch an Inheritance as is Immortal.</item>
+               </list>
+            </p>
+            <p>Now tell me (poor fainting, droop<g ref="char:EOLhyphen"/>ing Soul) What is it that thy heart can wiſh? Or what can bear up thy ſpirit under all afflictions, reproaches, difficul<g ref="char:EOLhyphen"/>ties and diſcouragements whatſoever, if this cannot do it?</p>
+            <p>Is there any thing thou loveſt better than <hi>life?</hi> Is there any better life, than a life of <hi>glory?</hi> Is there any glory grea<g ref="char:EOLhyphen"/>ter than a <hi>Crown</hi> of <hi>glory?</hi> Is there any Crown ſo deſireable as that which comes by <hi>Inheritance?</hi> Is there any In<g ref="char:EOLhyphen"/>heritance ſo admirable or delightfull, as that which is <hi>immortal undefiled,</hi> and <hi>ſuch as newer ſhall fade</hi> away.</p>
+            <p>Lift up thy head therefore; becauſe
+<pb n="79" facs="tcp:35251:44"/>thy Redemption and eternal Glorifica<g ref="char:EOLhyphen"/>tion are ſo near at hand: ſay to thy own Soul as that godly man did on his death-bed; <hi>Hold out faith and patience; thy work is almoſt at an end:</hi> Encourage thy ſelf, as <hi>Baſil</hi> tells us the Martyrs en<g ref="char:EOLhyphen"/>couraged one another, when they were caſt out naked in a Winters night, be<g ref="char:EOLhyphen"/>ing to be burned at a ſtake the next day: <hi>Sharp it the cold, but let us endure a while, and</hi> Abraham's <hi>boſom will warm us; Troubleſond is the way, but the end of the journey will be ſweet and pleaſant: Let our feet burn awhile, that we may dance for ever with the Angels; Let our hands feel they fire, that we may lay hold on Eternal Life.</hi> The Lord Jeſus work theſe things upon our hearts, that they may make an abiding Impreſſion. <hi>Amen.</hi>
+            </p>
+            <p>I have done with the Text.</p>
+            <p>Let me ſpeak ſomething to the Oc<g ref="char:EOLhyphen"/>caſion: How ſeaſonably this Text may be applied to our dear deceaſed Brother <hi>Daniel Waldoe</hi> Eſquire, one that fined for Alderman in this famous City, (whoſe Funerals we this day ſolemnize) ye that knew him and his Converſation, may eaſily conceive.</p>
+            <pb n="80" facs="tcp:35251:45"/>
+            <p>He was a man trained up in the ſchool of affliction for many years to<g ref="char:EOLhyphen"/>gether; being exerciſed with that acute and tormenting diſeaſe of the Stone, a<g ref="char:EOLhyphen"/>bout 30. years.</p>
+            <p>And doubtleſs God by that long and ſharp affiction was <hi>preparing him for e<g ref="char:EOLhyphen"/>ternal glory,</hi> partly by <hi>purging out his droſs, and making him white</hi> as the Scrip<g ref="char:EOLhyphen"/>ture phraſeth it, <hi>Dan.</hi> 11.35. and partly by teaching him the exerciſe of Pati<g ref="char:EOLhyphen"/>ence and perſeverance. For that ſpeech of the Apoſtle was verified in him, <hi>Rom.</hi> 5.3. <hi>Tribulation worketh patience;</hi> It is a Paradox to Reaſon, for affliction in its ſelf and its own nature worketh Impatience, and makes a man fret and fume <hi>like a wild Bull in a net,</hi> as the Pro<g ref="char:EOLhyphen"/>phet ſpeaks, <hi>Iſa.</hi> 51.20. But when God works with it, then it worketh pati<g ref="char:EOLhyphen"/>ence, and makes a man ſay with <hi>David, Be ſilent unto the Lord, O my Soul,</hi> Pſal, 62.5. Do not utter an impatient word.</p>
+            <p>Yea his Afflictions taught him not onely Patience and ſubmiſſion, but alſo ſelf-denial and ſympathy, or a fellow-feeling with others miſeries; He could
+<pb n="81" facs="tcp:35251:45"/>ſigh in their ſorrows, and bleed in their wounds, and be affected with their ſuf<g ref="char:EOLhyphen"/>ferings, as if they had been his own: In brief, the Rod taught him that excel<g ref="char:EOLhyphen"/>lent Leſſon, <hi>To have a heart weaned from the world;</hi> for the <hi>Rod has a voice,</hi> Micah 6.9. and it ſpake to him in that language which the Prophet uſed to the Jewes in <hi>Babilon,</hi> Micah 2.10. <hi>Ariſe ye, and depart, for this is not your reſt.</hi>
+            </p>
+            <p>The Teſtimony therefore that I may give of this worthy Citizen, without flattery or partiality is this.</p>
+            <p>Firſt, He was a very <hi>humble</hi> man, low in his own eyes, no way ſelf-con<g ref="char:EOLhyphen"/>ſident, or ſelf-conceited. And I am of the ſame opinion with that famous Divine, Dr. <hi>Harris,</hi> late of <hi>Oxford,</hi> that was wont to ſay, <hi>He valued no man for his gifts, but for, his humility under them;</hi> Certainly the more Grace any man hath in his heart, the more baſe he will be in his own eyes: Did ye ever know a man more eminent in Grace than Bleſſed <hi>Paul?</hi> And was there ever any man more humble? I am ſaith he <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, leſs <hi>than the leaſt of
+<pb n="82" facs="tcp:35251:46"/>all Saints,</hi> Epheſ. 3.8.</p>
+            <p>Thus was it with this dear Brother of ours; he ſo hated Pride, and that vain and ſinfull exceſs in apparel, ſo much affected in this luxurious wanton age, that he choſe rather his own Children ſhould be cloathed beneath their rank, than above it: And though he kept not a penurious Table, yet he profeſ<g ref="char:EOLhyphen"/>ſedly declined that delicacy and profuſe<g ref="char:EOLhyphen"/>neſs which many delight in, that in both, he might not onely avoid the ſcandal of the Goſpel, and offence the Godly; but that the ſuperfluity in dyet and apparrel might be improved to the better advantage of cloathing; the naked, and refreſhing the bowels of the hungry.</p>
+            <p n="2">2. He was very <hi>Induſtrious in his Calling,</hi> and doubtleſs that is very ac<g ref="char:EOLhyphen"/>ceptable and well-pleaſing unto God; eſpecially, when this diligence ariſeth not from a covetous deſire of heaping up riches, but from an obediential re<g ref="char:EOLhyphen"/>ſpect to Gods Command, becauſe he has enjoyned us that duty, <hi>Prov.</hi> 27.23. <hi>Be thou diligent to know the ſtate of thy
+<pb n="83" facs="tcp:35251:46"/>flocks, and look well to thy herds;</hi> and again, <hi>Prov.</hi> 10.4. <hi>The hand of the dili<g ref="char:EOLhyphen"/>gent maketh rich;</hi> yea God has annexed a promiſe to it, <hi>Prov.</hi> 22.29. <hi>Seeſt a man diligent in his buſineſs, he ſhall ſtand be<g ref="char:EOLhyphen"/>fore Kings, he ſhall not ſtand before mean men.</hi>
+            </p>
+            <p>And indeed, God was pleaſed ſingu<g ref="char:EOLhyphen"/>larly to bleſs his endeavors, and to en<g ref="char:EOLhyphen"/>rich him with a Temporal eſtate: For though a large eſtate was not his deſign, yet was it part of his Reward, and a pledg of future and far better hopes laid up for him in heaven.</p>
+            <p n="3">3. He was a <hi>Pious man;</hi> He did not ſo mind his particular Calling, as to neglect his General, but he drove a Trade for heaven, not onely in his ho<g ref="char:EOLhyphen"/>ly and religious obſervation of the Sabbath, but alſo in a carefull Attendance, at the Poſts of Wiſdoms houſe on the week dayes, as his occaſions and bo<g ref="char:EOLhyphen"/>dily infirmities would permit. Nei<g ref="char:EOLhyphen"/>ther was he an idle and unproſitable Hearer, but like the Induſtrious Bee, he gathered honey to carry home to his Hive, for the feeding of his Family,
+<pb n="84" facs="tcp:35251:47"/>as well as the refreſhing of his own Soul; witneſs thoſe heapes of Sermon Notes, that are found in his Study.</p>
+            <p n="4">4. He was a <hi>Faithfull</hi> man, one that filled his Relation faithfull; a ten<g ref="char:EOLhyphen"/>der hearted Husband to his Wife; a lo<g ref="char:EOLhyphen"/>ving carefull Father to his Children; one that knew how to love them with<g ref="char:EOLhyphen"/>out fondneſs, and to rule them without rigour. A prudent Governour towards his Servants, minding the good of their Souls, as well as the fruit of their Service.</p>
+            <p n="5">5. He was a <hi>Charitable man,</hi> nay, (I may conſidently ſay) Eminent and Exemplary in the Grace of Charity; being a real. Cordial, faithful friend to a godly Miniſtry, as appeared by his great bounty manifeſted on every occaſion; for to my knowledg, he has given very conſiderabe Sums of Money towards the encouraging of thoſe that were painfull Labourers in Gods Vineyard.</p>
+            <p>Never any Miniſter or Godly man came to propound any work of Piety or Charity, publick or private, that needed to do any more than to propund it: For his heart was ſo dipt in Charity,
+<pb n="85" facs="tcp:35251:47"/>and ſo ſet upon works of mercy, that he prevented Importunity, by his Chriſtian and Heroick Liberality.</p>
+            <p>I do not ſpeak raſhly, but adviſedly; He made no more of giving 10 <hi>l.</hi> to a work of Charity, than ſome of you (and thoſe of the richer ſort) make of giving 10 <hi>s.</hi> Yea, there are divers here preſent that can witneſs this Truth. Few did match him; none that I knew, did ſurpaſs him in works of Charity.</p>
+            <p>His Charity had two ſingular Con<g ref="char:EOLhyphen"/>comitants, which made it the more Re<g ref="char:EOLhyphen"/>markable and praiſe-worthy.</p>
+            <p n="1">1. He did good while he lived; He carried his Lantern before him; He made his own hands his Executors, and his own eyes his Overſeers. Some will part with their riches when they can keep them no longer; This is like a Cutpurſe, that being eſpied or purſued, will drop a Purſe or gold, becauſe he can keep it no longer. But to be doing good in our life-time, <hi>while we have opportuni<g ref="char:EOLhyphen"/>ty,</hi> this is an act of Faith, and an evidence that we can truſt God with our Eſtate, and our Children, that he will provide
+<pb n="86" facs="tcp:35251:48"/>for them, when out heads are laid in the grave, according to that of the Pſal<g ref="char:EOLhyphen"/>miſt, <hi>A good man is mercifull and lend<g ref="char:EOLhyphen"/>eth, and his ſeed, is bleſſed,</hi> Pſal. 37.26.</p>
+            <p n="2">2. He diſpenſed his Charity ſo ſe<g ref="char:EOLhyphen"/>cretly, without any ſelf-ſeeking or pha<g ref="char:EOLhyphen"/>riſaical vain-glory, that <hi>his left hand did not know what his right hand did.</hi>
+            </p>
+            <p>In brief, He did ſo much good while he lived, as if he meant to have nothing to do when he died, and yet he gave ſo largely when he came to die, as if he had done no good when he lived.</p>
+            <p>Now wherefore is all this ſpoken?</p>
+            <p>Not as if this Funeral Elegy could be any advantage to him; No, no, Fune<g ref="char:EOLhyphen"/>ral Sermons are <hi>vivorum ſolatia,</hi> not <hi>
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tuorum ſubſidia,</hi> ſaith <hi>Auſtin;</hi> They are no helpfull advantages to the dead, but wholeſom Inſtructions to the living; <hi>The dead praiſe not thee O Lord, nor any that go down into ſilence,</hi> Pſal. 115.17. Look as the dead return no praiſes to the Living God, ſo neither do they re<g ref="char:EOLhyphen"/>gard any praiſes from Living men.</p>
+            <p>It is not therefore ſpoken ſo much by way of Commendation, as to pro<g ref="char:EOLhyphen"/>pound
+<pb n="87" facs="tcp:35251:48"/>him a pattern of Imitation. This deceaſed friend (as it is ſaid of <hi>Abel</hi>) Heb. 11.4. <hi>Though he be dead, he yet ſpeaketh,</hi> And what is the language that he uſeth<g ref="char:punc">▪</g> Surely it is the ſame that <hi>Gideon</hi> uſed to his Souldiers, <hi>Judg.</hi> 7.17. <hi>Look on me, and do likwiſe:</hi> If ye do as he did, ye ſhall ſpeed as he ſped.</p>
+            <p>
+               <hi>Remember, you and I muſt anſwer for Examples, as well as Precepts.</hi>
+            </p>
+            <p>Ye know what, is laid of <hi>Noah;</hi> Heb. 11.7. By <hi>building an Ark he con<g ref="char:EOLhyphen"/>demned the world:</hi> His piety condem<g ref="char:EOLhyphen"/>ned their impiety; His faith condemned their infidelity, his uprightneſs, their hypocryſie. So this good mans Cha<g ref="char:EOLhyphen"/>rity will condemn your want of Charity at the Great day.</p>
+            <p>If ye ſay, You have many Children, ſo had he; He has left 9. Children a<g ref="char:EOLhyphen"/>live; but the providing for them was no obſtruction to his Charity.</p>
+            <p>To conclude; Bleſſed is that man that ſo lives as that he is deſired, and ſo dies as that he is miſſed.</p>
+            <p>This <hi>Nathaniel,</hi> (ſo I may call him for his Sincerity, as well as a <hi>Job</hi> for his
+<pb n="88" facs="tcp:35251:49"/>Charity) He lived deſired, and will be exeedingly miſſed: Miſſed I ſay in his family, where he was a faithfull Gover<g ref="char:EOLhyphen"/>nour; In the City, where he was a boun<g ref="char:EOLhyphen"/>tifull Benefactor; In the Pariſh, where he was a uſefull Neighbour; In the Company, where he was an honoured Member.</p>
+            <p>Miſſed among the Poor, eſpecially Widows in neceſſity, to whom he was a Father.</p>
+            <p>Oh that God would humble us for our ſtupidity, That <hi>the righteous periſh<g ref="char:EOLhyphen"/>eth, and no man layeth to heart,</hi> and mer<g ref="char:EOLhyphen"/>cifull men are taken away, and no man regards it, <hi>Iſa.</hi> 57.1.</p>
+            <p>Oh that God would make his exam<g ref="char:EOLhyphen"/>ple powerfull and influential on all the Rich men that hear me, or ſhall read this Sermon, and the teſtimony that is given to this Worthy man: Oh that God would ſend us many ſuch <hi>WALDOES!</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35251:49" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
